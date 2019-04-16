@@ -6,6 +6,28 @@ function populate(s1,s2){
         var optionArray = ["|Model", "ILX|ILX","MDX|MDX","RDX|RDX","TLX|TLX"
     ];
     }
+    if(s1.value == "Audi") {
+        var optionArray = ["|Model", "A3|A3","A4|A4","A5|A5","A6|A6","A7|A7",
+        "A8|A8",
+        "Q3|Q3","Q5|Q5","Q7|Q7","Q8|Q8",
+        "R8|R8","TT|TT"
+    ];
+    }
+    if(s1.value == "BMW") {
+        var optionArray = ["|Model",
+        "i3|i3","i8|i8",
+        "X1|X1","X2|X2","X3|X3","X4|X4","X5|X5","X6|X6",
+        "2-Series|2-Series",
+        "3-Series|3-Series","4-Series|4-Series","6-Series|6-Series",
+        "5-Series|5-Series","7-Series|7-Series","8-Series|8-Series"
+    ];
+    }
+    if(s1.value == "Buick") {
+        var optionArray = ["|Model","Cascada|Cascada",
+        "Enclave|Enclave","Encore|Encore","Envision|Envision",
+        "LaCrosse|LaCrosse","Regal|Regal"
+    ];
+    }
     if(s1.value == "Cadillac") {
         var optionArray = ["|Model","ATS|ATS","CTS|CTS","CT6|CT6", 
         "Escalade|Escalade",
@@ -80,6 +102,14 @@ function populate(s1,s2){
     if(s1.value == "Mazda") {
         var optionArray = ["|Model", "CX-3|CX-3","CX-5|CX-5","CX-9|CX-9",
         "Mazda 3|Mazda 3","Mazda 6|Mazda 6","MX-5 Miata|MX-5 Miata"
+    ];
+    }
+    if(s1.value == "Mercedes-Benz") {
+        var optionArray = ["|Model", "AMG GT|AMG GT","B-Class|B-Class",
+        "C-Class|C-Class","CLA-Class|CLA-Class",
+        "E / CLS-Class|E / CLS-Class",
+        "G-Class|G-Class","GLA-Class|GLA-Class","GLC-Class|GLC-Class","GLE-Class|GLE-Class","Benz GLS-Class|Benz GLS-Class",
+        "S-Class|S-Class","SL-Class|SL-Class","SLC-Class|SLC-Class"
     ];
     }
     if(s1.value == "Mini") {
