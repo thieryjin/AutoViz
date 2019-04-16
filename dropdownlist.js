@@ -70,6 +70,13 @@ function populate(s1,s2){
         "RC|RC","RX|RX"
     ];
     }
+    if(s1.value == "Lincoln") {
+        var optionArray = ["|Model", "Continental|Continental",
+        "MKC|MKC"," MKT|MKT","MKX|MKX",
+        "MKZ|MKZ",
+        "Navigator|Navigator"
+    ];
+    }
     if(s1.value == "Mazda") {
         var optionArray = ["|Model", "CX-3|CX-3","CX-5|CX-5","CX-9|CX-9",
         "Mazda 3|Mazda 3","Mazda 6|Mazda 6","MX-5 Miata|MX-5 Miata"
