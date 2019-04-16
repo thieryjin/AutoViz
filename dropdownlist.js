@@ -22,8 +22,8 @@ function populate(s1,s2){
         "i3|i3","i8|i8",
         "X1|X1","X2|X2","X3|X3","X4|X4","X5|X5","X6|X6",
         "2-Series|2-Series",
-        "3-Series|3-Series","4-Series|4-Series","6-Series|6-Series",
-        "5-Series|5-Series","7-Series|7-Series","8-Series|8-Series"
+        "3-Series|3-Series","4-Series|4-Series","5-Series|5-Series","6-Series|6-Series",
+        "7-Series|7-Series","8-Series|8-Series"
     ];
     }
     if(s1.value == "Buick") {
