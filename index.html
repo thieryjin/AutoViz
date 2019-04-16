@@ -3,8 +3,9 @@
 <head>
 <title>Car Visualization</title>
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script type="text/javascript" src="dropdownlist.js">
-</script>
+<script type="text/javascript" src="dropdownlist.js"></script>
+<script type="text/javascript" src="carimg.js"></script>
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -13,6 +14,9 @@
 <p>Car Visulization Comparison</p>
 <div class="split left">
 <div class="centered">
+
+<canvas id="d1"></canvas>
+
 <h2>Choose Your Car</h2>
 <hr/>
 Choose Car Make:
@@ -49,7 +53,7 @@ Choose Car Make:
 </select>
 <hr/>
 Choose Car Model:
-<select name="slct2" id="slct2">
+<select name="slct2" id="slct2" onchange="update(this.value)">
     <option value="">Model</option>
 </select>
 

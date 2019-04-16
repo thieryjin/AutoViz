@@ -13,7 +13,7 @@
   /* Control the left side */
   .left {
     left: 0;
-    background-color: gray;
+    background-color: white;
   }
   
   /* Control the right side */
@@ -25,7 +25,7 @@
   /* If you want the content centered horizontally and vertically */
   .centered {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -35,4 +35,10 @@
   .centered img {
     width: 150px;
     border-radius: 50%;
+  }
+
+  canvas {
+      width: 256px;
+      height: 183.6px;
+      border: 1px solid #c3c3c3;
   }
