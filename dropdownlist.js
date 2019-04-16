@@ -2,6 +2,10 @@ function populate(s1,s2){
     var s1 = document.getElementById(s1);
     var s2 = document.getElementById(s2);
     s2.innerHTML = "";
+    if(s1.value == "") {
+        var optionArray = ["|Model"
+    ];
+    }
     if(s1.value == "Acura") {
         var optionArray = ["|Model", "ILX|ILX","MDX|MDX","RDX|RDX","TLX|TLX"
     ];
