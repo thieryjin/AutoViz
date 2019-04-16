@@ -82,11 +82,18 @@ function populate(s1,s2){
         "Mazda 3|Mazda 3","Mazda 6|Mazda 6","MX-5 Miata|MX-5 Miata"
     ];
     }
+    if(s1.value == "Mini") {
+        var optionArray = ["|Model", "Cooper|Cooper","Countryman|Countryman"
+    ];
+    }
     if(s1.value == "Porsche") {
         var optionArray = ["|Model", "Cayenne|Cayenne","Macan|Macan",
         "Panamera|Panamera","718|718","911|911"
     ];
     }
+    if(s1.value == "Smart") {
+        var optionArray = ["|Model", "ForTwo|ForTwo"
+    ];
     if(s1.value == "Subaru") {
         var optionArray = ["|Model", "Ascent|Ascent","BRZ|BRZ","CrossTrek|CrossTrek",
         "Forester|Forester",
