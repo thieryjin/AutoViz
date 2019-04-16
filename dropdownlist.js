@@ -94,6 +94,7 @@ function populate(s1,s2){
     if(s1.value == "Smart") {
         var optionArray = ["|Model", "ForTwo|ForTwo"
     ];
+    }
     if(s1.value == "Subaru") {
         var optionArray = ["|Model", "Ascent|Ascent","BRZ|BRZ","CrossTrek|CrossTrek",
         "Forester|Forester",
