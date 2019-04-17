@@ -14,12 +14,14 @@
   .left {
     left: 0;
     background-color: white;
+    color: red;
   }
   
   /* Control the right side */
   .right {
     right: 0;
     background-color: white;
+    color: blue;
   }
   
   /* If you want the content centered horizontally and vertically */
