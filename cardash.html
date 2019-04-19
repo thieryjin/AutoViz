@@ -1,0 +1,148 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <script type="text/javascript" src='https://d3js.org/d3.v4.min.js'></script>
+  <link rel="stylesheet" href="cardash_styles.css">
+ 
+</head>
+<body>
+    <h1>Drive to You</h1>
+    <p>Car Visulization Comparison</p>
+    <div class="split left">
+    <div class="centered">
+    
+    <canvas id="d1"></canvas>
+    
+    <h2>Choose Your Car</h2>
+    <hr/>
+    Choose Car Make:
+    <select name="slct1" id="slct1" onchange="populate(this.id,'slct2')">
+        <option value="">Make</option>
+        <option value="Acura">Acura</option>
+        <option value="Audi">Audi</option>
+        <option value="BMW">BMW</option>
+        <option value="Buick">Buick</option>
+        <option value="Cadillac">Cadillac</option>
+        <option value="Chevy">Chevy</option>
+        <option value="Dodge">Dodge</option>
+        <option value="Ford">Ford</option>
+        <option value="GMC">GMC</option>
+        <option value="Honda">Honda</option>
+        <option value="Hyundai">Hyundai</option>
+        <option value="Infiniti">Infiniti</option>
+        <option value="Jeep">Jeep</option>
+        <option value="Kia">Kia</option>
+        <option value="Lexus">Lexus</option>
+        <option value="Lincoln">Lincoln</option>
+        <option value="Mazda">Mazda</option>
+        <option value="Mercedes-Benz">Mercedes-Benz</option>
+        <option value="Mini">Mini</option>
+        <option value="Nissan">Nissan</option>
+        <option value="Porsche">Porsche</option>
+        <option value="Smart">Smart</option>
+        <option value="Subaru">Subaru</option>
+        <option value="Tesla">Tesla</option>
+        <option value="Toyota">Toyota</option>
+        <option value="Volkswagen">Volkswagen</option>
+        <option value="Volvo">Volvo</option>
+    
+    </select>
+    <hr/>
+    Choose Car Model:
+    <select name="slct2" id="slct2" onchange="update(this.value)">
+        <option value="">Model</option>
+    </select>
+    
+    <hr/>
+    Choose Year:
+    <select name="slct3" id="slct3">
+        <option value="">Year</option>
+        <option value="2018">2018</option>
+    </select>
+    <hr/>
+    <div id="main">
+        <div id="screen">
+          <div id="home">
+            <div id="acceleration"> 6.5s</div>
+            <h1 id="countdown">0</h1>
+            <div id="mph">mph</div>
+          </div> 
+        </div>
+        
+      </div>
+
+    </div>
+    </div>
+    
+    
+    <div class="split right">
+            <div class="centered">
+                    <canvas id="d2"></canvas>
+    <h2>Choose Your Comparison Car</h2>
+    <hr/>
+    Choose Car Make:
+    <select name="slct4" id="slct4" onchange="populate(this.id,'slct5')">
+        <option value="">Make</option>
+        <option value="Acura">Acura</option>
+        <option value="Audi">Audi</option>
+        <option value="BMW">BMW</option>
+        <option value="Buick">Buick</option>
+        <option value="Cadillac">Cadillac</option>
+        <option value="Chevy">Chevy</option>
+        <option value="Dodge">Dodge</option>
+        <option value="Ford">Ford</option>
+        <option value="GMC">GMC</option>
+        <option value="Honda">Honda</option>
+        <option value="Hyundai">Hyundai</option>
+        <option value="Infiniti">Infiniti</option>
+        <option value="Jeep">Jeep</option>
+        <option value="Kia">Kia</option>
+        <option value="Lexus">Lexus</option>
+        <option value="Lincoln">Lincoln</option>
+        <option value="Mazda">Mazda</option>
+        <option value="Mercedes-Benz">Mercedes-Benz</option>
+        <option value="Mini">Mini</option>
+        <option value="Nissan">Nissan</option>
+        <option value="Porsche">Porsche</option>
+        <option value="Smart">Smart</option>
+        <option value="Subaru">Subaru</option>
+        <option value="Tesla">Tesla</option>
+        <option value="Toyota">Toyota</option>
+        <option value="Volkswagen">Volkswagen</option>
+        <option value="Volvo">Volvo</option>
+    
+    </select>
+    <hr/>
+    Choose Car Model:
+    <select name="slct5" id="slct5">
+        <option value="">Model</option>
+    </select>
+    
+    <hr/>
+    Choose Year:
+    <select name="slct3" id="slct3">
+        <option value="">Year</option>
+        <option value="2018">2018</option>
+    </select>
+    <hr/>
+    <div id="main2">
+        <div id="screen">
+          <div id="home2">
+      
+            <div id="acceleration"> 6.5s</div>
+            <h1 id="countdown2">0</h1>
+            <div id="mph">mph</div>
+          </div>
+    
+        </div>
+        
+      </div>  
+
+    </div>
+    </div>
+    <script type="text/javascript" src="car_dash_new.js">
+    </script>
+</body>
+</html>
