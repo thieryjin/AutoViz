@@ -1,5 +1,3 @@
-
-
 function update(val) {
     if (val == ""){
         var dd1 = document.getElementById("d1");
@@ -12,12 +10,12 @@ function update(val) {
         dd1.style.backgroundColor="lime";*/
     var filepath = "pic/"+val+".jpg";
     var img= new SimpleImage(filepath);
-        var dd1 = document.getElementById("d1");
+    var dd1 = document.getElementById("d1");
         img.drawTo(dd1);
     /*if(val === "A5") {
         var img= new SimpleImage("pic/A5.jpg")
         var dd1 = document.getElementById("d1");
-        img.drawTo(dd1);
+        img.drawTo(dd1); 
     }*/}
 }
 
