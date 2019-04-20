@@ -1,0 +1,207 @@
+/* Split the screen in half */
+.split {
+    height: 80%;
+    margin-top:150px;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  /* Control the left side */
+  .left {
+    left: 0;
+    background-color: white;
+    color: red;
+    position: absolute;
+  }
+  
+  /* Control the right side */
+  .right {
+    right: 0;
+    background-color: white;
+    color: blue;
+    position: absolute;
+  }
+  
+  /* If you want the content centered horizontally and vertically */
+  .centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  /* Style the image inside the centered container, if needed */
+  .centered img {
+    width: 150px;
+    border-radius: 50%;
+  }
+
+  canvas {
+      width: 308px;
+      height: 204px;
+      border: 1px solid #c3c3c3;
+  }
+
+  
+ 
+  #my_dataviz {
+    left: 0;
+    width: 100%;
+    background-color: lightgray;
+    position: absolute;
+    top: 745px;
+    
+  }
+  #my_dataviz svg{
+    position: relative;
+    display: block;
+    margin: auto;
+   
+  }
+
+  /* car dashboard */
+  #main {
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+    background: -webkit-linear-gradient(285deg, #00a8ff 0%, #cc00ff 100%);
+    background: linear-gradient(165deg, #00a8ff 0%, #cc00ff 100%);
+    margin: 0 auto;
+  }
+  
+  
+  
+  
+  #screen {
+    color: #fff;
+    z-index: 100;
+    -webkit-font-smoothing: antialiased;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    background: #010101;
+    width: 280px;
+    height: 280px;
+    margin: 10px;
+    border-radius: 100%;
+    position: absolute;
+    overflow: hidden;
+  }
+  
+  
+  
+  #home {
+    position: absolute;
+    mix-blend-mode: screen;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  #home h1 {
+    position: relative;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    margin-top: -55px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 110px;
+    width: 100%;
+    letter-spacing: 5px;
+    color:red;
+  }
+  #home #mph {
+    color: fff;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+    bottom: 40px;
+    text-align: center;
+    font-size: 45px;
+    letter-spacing: 0.25px;
+    text-transform: uppercase;
+    font-weight: 100;
+  }
+  
+  
+  #home #acceleration, #home h2 {
+    width: 100%;
+    font-size: 40px;
+    opacity: 1;
+    letter-spacing: 0.25px;
+    position: absolute;
+    top: 40px;
+    text-transform: lowercase;
+    color: fff;
+    font-weight: 200;
+    text-align: center;
+  }
+  
+  #main2 {
+    width: 300px;
+    height: 300px;
+   
+  
+    border-radius: 300px;
+    background: -webkit-linear-gradient(285deg, #00a8ff 0%, #cc00ff 100%);
+    background: linear-gradient(165deg, #00a8ff 0%, #cc00ff 100%);
+    margin: 0 auto;
+    
+  }
+  
+  
+  
+  
+  
+  #home2 {
+    position: absolute;
+    mix-blend-mode: screen;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  #home2 h1 {
+    position: relative;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    margin-top: -55px;
+    line-height: 100px;
+    text-align: center;
+    font-size: 110px;
+    width: 100%;
+    letter-spacing: 5px;
+    color:blue;
+  }
+  #home2 #mph {
+    color: fff;
+    opacity: 1;
+    position: absolute;
+    width: 100%;
+    bottom: 40px;
+    text-align: center;
+    font-size: 45px;
+    letter-spacing: 0.25px;
+    text-transform: uppercase;
+    font-weight: 100;
+  }
+  
+  
+  #home2 #acceleration, #home h2 {
+    width: 100%;
+    font-size: 40px;
+    opacity: 1;
+    letter-spacing: 0.25px;
+    position: absolute;
+    top: 40px;
+    text-transform: lowercase;
+    color: fff;
+    font-weight: 200;
+    text-align: center;
+  }
+  
