@@ -98,7 +98,7 @@ function populate(s1,s2){
     }
     if(s1.value == "Lincoln") {
         var optionArray = ["|Model", "Continental|Continental",
-        "MKC|MKC"," MKT|MKT","MKX|MKX",
+        "MKC|MKC","MKT|MKT","MKX|MKX",
         "MKZ|MKZ",
         "Navigator|Navigator"
     ];
@@ -112,7 +112,7 @@ function populate(s1,s2){
         var optionArray = ["|Model", "AMG GT|AMG GT","B-Class|B-Class",
         "C-Class|C-Class","CLA-Class|CLA-Class",
         "E-Class|E-Class",
-        "G-Class|G-Class","GLA-Class|GLA-Class","GLC-Class|GLC-Class","GLE-Class|GLE-Class","Benz GLS-Class|Benz GLS-Class",
+        "G-Class|G-Class","GLA-Class|GLA-Class","GLC-Class|GLC-Class","GLE-Class|GLE-Class","GLS-Class|GLS-Class",
         "S-Class|S-Class","SL-Class|SL-Class","SLC-Class|SLC-Class"
     ];
     }
@@ -166,6 +166,7 @@ function populate(s1,s2){
     }
     if(s1.value == "Nissan") {
         var optionArray = ["|Model","Altima|Altima","Armada|Armada",
+        "GT-R|GT-R",
         "Kicks|Kicks","Leaf|Leaf",
         "Maxima|Maxima","Murano|Murano",
         "Pathfinder|Pathfinder",
