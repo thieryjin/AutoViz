@@ -1,13 +1,13 @@
 /* Split the screen in half */
 .split {
-    height: 80%;
-    margin-top:150px;
+    height: 60%;
+    margin-top:100px;
     width: 50%;
     position: fixed;
     z-index: 1;
     top: 0;
     overflow-x: hidden;
-    padding-top: 20px;
+    padding-top: 10px;
   }
   
   /* Control the left side */
@@ -54,7 +54,7 @@
     width: 100%;
     background-color: lightgray;
     position: absolute;
-    top: 995px;
+    top: 648px;
     
   }
   #my_dataviz svg{
