@@ -12,10 +12,15 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("depreciation.csv", function(data) {
+d3.queue()
+    .defer(d3.csv, 'sales.csv')
+    .defer(d3.csv, 'depreciation.csv')
+    .await(processData1);
+function processData1(error, data1, data2) {
+
 
     // List of groups (here I have one group per column)
-    var allGroup = d3.keys(data[0]).filter(function(key) {
+    var allGroup = d3.keys(data2[0]).filter(function(key) {
       return key !=="Year";});
     
 
@@ -56,7 +61,7 @@ d3.csv("depreciation.csv", function(data) {
     var line = svg
       .append('g')
       .append("path")
-        .datum(data)
+        .datum(data2)
         
         .attr("stroke", function(d){ return myColor("valueA") })
         .style("stroke-width", 4)
@@ -64,7 +69,7 @@ d3.csv("depreciation.csv", function(data) {
     var line1 = svg
       .append('g')
       .append("path")
-        .datum(data)
+        .datum(data2)
         /*.attr("d", d3.line()
           .x(function(d) { return x(+d.Year) })
           .y(function(d) { return y(+d.A3*100) })
@@ -76,7 +81,7 @@ d3.csv("depreciation.csv", function(data) {
     function update(selectedGroup) {
 
       // Create new data with the selection?
-      var dataFilter = data.map(function(d){return {Year: +d.Year, value:d[selectedGroup]*100} })
+      var dataFilter = data2.map(function(d){return {Year: +d.Year, value:d[selectedGroup]*100} })
       
       // Give these new data to update line
       line
@@ -94,7 +99,7 @@ d3.csv("depreciation.csv", function(data) {
     function update1(selectedGroup) {
 
       // Create new data with the selection?
-      var dataFilter = data.map(function(d){return {Year: d.Year, value:d[selectedGroup]*100} })
+      var dataFilter = data2.map(function(d){return {Year: d.Year, value:d[selectedGroup]*100} })
 
       // Give these new data to update line
       line1
@@ -121,4 +126,8 @@ d3.csv("depreciation.csv", function(data) {
       // run the updateChart function with this selected option
       update1(selectedOption1)
   })
-})
+}
+
+
+
+
