@@ -1,11 +1,11 @@
 /* Split the screen in half */
 .split {
-    height: 60%;
-    margin-top:100px;
+    height: 70%;
+    margin-top:20px;
     width: 50%;
     position: fixed;
     z-index: 1;
-    top: 70;
+    top: 10;
     overflow-x: hidden;
     padding-top: 10px;
   }
@@ -54,7 +54,7 @@
     width: 100%;
     background-color: lightgray;
     position: absolute;
-    top: 848px;
+    top: 858px;
     
   }
   #my_dataviz svg{
@@ -66,8 +66,15 @@
   #sales {
     left: 0;
     width: 100%;
-    background-color: lightgray;
+    background-color: white;
     position: absolute;
-    top: 2000px;
+    top: 1300px;
     
+  }
+
+  #sales svg{
+    position: relative;
+    display: block;
+    margin: auto;
+   
   }
