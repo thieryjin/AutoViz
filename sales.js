@@ -117,11 +117,7 @@ function processData(error, data1, data2) {
       .attr("transform", "rotate(-80)")
       .attr("dy", "0em");
   
-  svg.append("text")
-    .text("Depreciation Comparison")
-    .attr("x", (width / 2))             
-    .attr("y", 0 - (margin.top / 2))
-    .style("font-size", "20px");
+
     
   // Add Y axis
   var y = d3.scaleLinear()

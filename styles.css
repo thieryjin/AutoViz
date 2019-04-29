@@ -1,74 +1,82 @@
 /* Split the screen in half */
-.split {
-    height: 70%;
-    margin-top:20px;
-    width: 50%;
-    position: fixed;
-    z-index: 1;
-    top: 10;
-    overflow-x: hidden;
-    padding-top: 10px;
+body{
+	background:#B3B3B3;
+	margin:2%;
+	font-size: 125%;
+  font-family: Sans-serif;
+}
+header{
+  background: #666666;
+	background: -moz-linear-gradient(top, #666666 0%, #00b7ea 100%);
+	background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
+	background: linear-gradient(#666666 0%, #00b7ea 100%);
+}
+
+h1{
+  border: 5px solid #000000;
+  text-align: center;
+  padding:2%;
+}
+
+h2 {
+  border: 5px solid #000000;
+  color: #666666;
+	background: #00b7ea;
+  text-align: center;
+  padding:1%;
+}
+
+.half {
+   width:44%;
+	 margin-right: 2%;
+   
+   float:left;
+   text-align: center;
+   padding:2%;
   }
-  
+.left{
+  color: red;
+}
+
+.right{
+  color: blue;
+}
+
   /* Control the left side */
-  .left {
-    left: 0;
-    background-color: white;
-    color: red;
-    position: absolute;
-  }
   
-  /* Control the right side */
-  .right {
-    right: 0;
-    background-color: white;
-    color: blue;
-    position: absolute;
-  }
   
   /* If you want the content centered horizontally and vertically */
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
+  
   
   /* Style the image inside the centered container, if needed */
-  .centered img {
-    width: 150px;
-    border-radius: 50%;
-  }
-
   canvas {
       width: 308px;
       height: 204px;
       border: 1px solid #c3c3c3;
   }
 
-  
- 
   #my_dataviz {
-    left: 0;
-    width: 100%;
-    background-color: lightgray;
-    position: absolute;
-    top: 858px;
+    clear:both;
+    border: 5px solid #000000;
+    background:#B3B3B3;
+    margin:2%;
+    
     
   }
   #my_dataviz svg{
     position: relative;
     display: block;
     margin: auto;
+    padding:2%;
    
   }
   #sales {
-    left: 0;
-    width: 100%;
-    background-color: white;
-    position: absolute;
-    top: 1300px;
+    clear:both;
+    border: 5px solid #000000;
+    margin:2%;
+    
+    
     
   }
 
@@ -77,4 +85,11 @@
     display: block;
     margin: auto;
    
+  }
+  .description {
+    clear: both;
+    text-align: center;
+    color: #666666;
+    background: #00b7ea;
+    margin: 2%;
   }

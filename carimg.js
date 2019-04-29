@@ -31,7 +31,7 @@ window.onload=function() {
     
         var x = this.value;
         var filepath = "pic/"+x+".jpg";
-    var img= new SimpleImage(filepath);
+        var img= new SimpleImage(filepath);
         var dd2 = document.getElementById("d2");
         img.drawTo(dd2);
     }

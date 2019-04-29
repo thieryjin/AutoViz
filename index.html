@@ -11,24 +11,19 @@
 
 <link rel="stylesheet" href="styles.css">
 
-
-<div id="sales"></div>
-<div id="my_dataviz"></div>
-<script type="text/javascript" src="sales.js"></script> 
-
-   
   
 </head>
 <body>
-
+<header>
 <h1>Drive to You</h1>
-<p>Car Visulization Comparison</p>
-<div class="split left">
-<div class="centered">
+<h2>Car Visulization Comparison</h2>
+</header>
+<section class="half">
+<div class="left">
 
 <canvas id="d1"></canvas>
 
-<h2>Choose Your Car</h2>
+<h3>Choose Your Car</h3>
 <hr/>
 Choose Car Make:
 <select name="slct1" id="slct1" onchange="populate(this.id,'slct2')">
@@ -76,13 +71,13 @@ Choose Year:
 </select>
 <hr/>
 </div>
-</div>
+</section>
 
 
-<div class="split right">
-        <div class="centered">
+<section class="half">
+        <div class="right">
                 <canvas id="d2"></canvas>
-<h2>Choose Your Comparison Car</h2>
+<h3>Choose Your Comparison Car</h3>
 <hr/>
 Choose Car Make:
 <select name="slct4" id="slct4" onchange="populate(this.id,'slct5')">
@@ -130,10 +125,13 @@ Choose Year:
 </select>
 <hr/>
 </div>
-</div>
+</section>
+<h2 class="description">Depreciation Comparison</h2>
+<section id="my_dataviz"></section>
+<h2 class="description">Annual Sales Comparison Among All Cars</h2>
+<div id="sales"></div>
 
-
-
+<script type="text/javascript" src="sales.js"></script> 
 
  
 
