@@ -176,7 +176,8 @@ function processData(error, data1, data2) {
           }
         var mousemove = function(d) {
             tooltip
-              .html("2018 "+d.Model+ " Annual Sales: " + d.YTD)
+              .html("2018 "+d.Model+ " Annual Sales: " + d.YTD+". "+
+              "It is ranked #"+d.rank+" in 2018 "+d.Category +" Sales.")
               .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
               .style("top", (d3.mouse(this)[1]) + "px")
           }
@@ -236,7 +237,8 @@ function processData(error, data1, data2) {
           }
         var mousemove = function(d) {
             tooltip
-              .html("2018 "+d.Model+ " Annual Sales: " + d.YTD)
+              .html("2018 "+d.Model+ " Annual Sales: " + d.YTD+". "+
+              "It is ranked #"+d.rank+" in 2018 "+d.Category +" Sales.")
               .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
               .style("top", (d3.mouse(this)[1]) + "px")
           }
