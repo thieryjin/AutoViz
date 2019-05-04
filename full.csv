@@ -1,0 +1,252 @@
+﻿Make\Model,Make,Model,YTD,position,MPG,Torque,Horsepower,Reliability,Category,rank
+Honda Civic,Honda,Civic,325760,50,33.5,138,158,77,Compact Cars,1
+Toyota Corolla,Toyota,Corolla,303732,50,34.5,126,139,83,Compact Cars,2
+Nissan Sentra,Nissan,Sentra,213046,50,28,128,130,76,Compact Cars,3
+Hyundai Elantra,Hyundai,Elantra,200415,50,31,132,147,77,Compact Cars,4
+Chevrolet Cruze,Chevrolet,Cruze,142618,50,38,177,153,81,Compact Cars,5
+Ford Focus,Ford,Focus,114045,50,,,,75,Compact Cars,6
+Kia Forte,Kia,Forte,101890,50,34,,147,75,Compact Cars,7
+Volkswagen Jetta,Volkswagen,Jetta,90794,50,35,184,147,79,Compact Cars,8
+Toyota Prius Family,Toyota,Prius,87590,50,30,105,121,74,Compact Cars,9
+Subaru Impreza,Subaru,Impreza,76400,50,30,145,152,73,Compact Cars,10
+Mazda 3,Mazda,Mazda 3,64638,50,30.5,186,186,73,Compact Cars,11
+Volkswagen Golf,Volkswagen,Golf,42271,50,29,184,147,77,Compact Cars,12
+Subaru Legacy,Subaru,Legacy,40109,50,26,174,175,78,Compact Cars,13
+Chevrolet Volt,Chevrolet,Volt,18306,50,42.5,294,149,69,Compact Cars,14
+Chevrolet Bolt,Chevrolet,Bolt,18020,50,,266,200,73,Compact Cars,15
+Hyundai Ioniq,Hyundai,Ioniq,15076,50,57,109,139,70,Compact Cars,16
+Nissan Leaf,Nissan,Leaf,14715,50,25,236,147,74,Compact Cars,17
+Honda Insight,Honda,Insight,12513,50,50,99,151,72,Compact Cars,18
+Hyundai Veloster,Hyundai,Veloster,10871,50,25,132,147,76,Compact Cars,19
+Smart ForTwo,Smart,ForTwo,1276,50,,,,65,Compact Cars,20
+Toyota RAV4,Toyota,RAV4,427168,50,15,184,203,79,Compact SUVs,1
+Nissan Rogue,Nissan,Rogue,412110,50,33,175,170,78,Compact SUVs,2
+Honda CR-V,Honda,CR-V,379021,50,29.5,180,184,79,Compact SUVs,3
+Chevrolet Equinox,Chevrolet,Equinox,332621,50,30.5,203,170,81,Compact SUVs,4
+Ford Escape,Ford,Escape,272228,50,25.5,170,168,78,Compact SUVs,5
+Jeep Wrangler,Jeep,Wrangler,240032,50,21,260,285,72,Compact SUVs,6
+Jeep Cherokee,Jeep,Cherokee,239437,50,24.5,171,180,76,Compact SUVs,7
+Subaru Forester,Subaru,Forester,171613,50,29.5,176,182,74,Compact SUVs,8
+Jeep Compass,Jeep,Compass,171167,50,27,175,180,72,Compact SUVs,9
+Hyundai Tuscon,Hyundai,Tuscon,153792,50,25.5,150,161,79,Compact SUVs,10
+Mazda CX-5,Mazda,CX-5,150622,50,30,186,187,76,Compact SUVs,11
+GMC Terrain,GMC,Terrain,114311,50,,203,170,75,Compact SUVs,12
+Volkswagen Tiguan,Volkswagen,Tiguan,103022,50,25,221,184,77,Compact SUVs,13
+Kia Sportage,Kia,Sportage,82823,50,25,175,181,79,Compact SUVs,14
+Mitsubishi Outlander,Mitsubishi,Outlander,37952,50,25,162,166,74,Compact SUVs,15
+Mitsubishi Eclipse Cross,Mitsubishi,Eclipse,9485,50,27,184,152,70,Compact SUVs,16
+Ford C-Max,Ford,C-Max,6683,50,,,,75,Compact SUVs,17
+Dodge Charger,Dodge,Charger,80226,50,21.5,260,292,82,Large Cars,1
+Chevrolet Impala,Chevrolet,Impala,56557,50,26,191,197,83,Large Cars,2
+Chrysler 300,Chrysler,300,46593,50,23,260,292,82,Large Cars,3
+Nissan Maxima,Nissan,Maxima,42337,50,24,261,300,87,Large Cars,4
+Ford Taurus,Ford,Taurus,40341,50,21,254,288,82,Large Cars,5
+Toyota Avalon,Toyota,Avalon,33580,50,43.5,267,301,79,Large Cars,6
+Buick Regal,Buick,Regal,14117,50,25.5,260,250,84,Large Cars,7
+Kia Cadenza,Kia,Cadenza,4507,50,23.5,253,290,88,Large Cars,8
+Chevrolet Tahoe,Chevrolet,Tahoe,104152,50,18.5,383,355,84,Large SUVs,1
+GMC Yukon,GMC,Yukon,74678,50,18.5,383,355,86,Large SUVs,2
+Chevrolet Suburban,Chevrolet,Suburban,60633,50,18.5,383,355,83,Large SUVs,3
+Ford Expedition,Ford,Expedition,54661,50,20,470,375,86,Large SUVs,4
+Nissan Armada,Nissan,Armada,32650,50,16,394,390,80,Large SUVs,5
+Toyota Sequoia,Toyota,Sequoia,11121,50,22.5,263,296,82,Large SUVs,6
+Toyota Land Cruiser,Toyota,Land,3235,50,15.5,401,381,,Large SUVs,7
+Audi Q5,Audi,Q5,69978,50,23,273,248,84,Luxury Compact SUVs,1
+Mercedes-Benz GLC-Class,Mercedes-Benz,GLC-Class,69729,50,21.5,273,241,88,Luxury Compact SUVs,2
+Acura RDX,Acura,RDX,63580,50,21.5,280,272,82,Luxury Compact SUVs,3
+Lexus NX,Lexus,NX,62079,50,25,258,235,82,Luxury Compact SUVs,4
+BMW X3,BMW,X3,61351,50,25,258,248,86,Luxury Compact SUVs,5
+Volvo XC60,Volvo,XC60,32689,50,24,258,250,81,Luxury Compact SUVs,6
+Lincoln MKC,Lincoln,MKC,26241,50,22.5,275,245,83,Luxury Compact SUVs,7
+Infiniti QX50,Infiniti,QX50,25389,50,27.5,280,268,85,Luxury Compact SUVs,8
+Porsche Macan,Porsche,Macan,22954,50,21,273,248,93,Luxury Compact SUVs,9
+Buick LaCrosse,Buick,LaCrosse,15527,50,27.5,187,194,87,Luxury Compact SUVs,10
+Jaguar F-Pace,Jaguar,F-Pace,12997,50,24.5,269,247,75,Luxury Compact SUVs,11
+Alfa Romeo Stelvio,Alfa,Romeo,12043,50,23,306,280,,Luxury Compact SUVs,12
+Land Rover Discovery Sport,Land,Rover,12035,50,22.5,251,237,73,Luxury Compact SUVs,13
+BMW X4,BMW,X4,4323,50,24.5,258,248,86,Luxury Compact SUVs,14
+Jaguar I-Pace,Jaguar,I-Pace,393,50,0,512,394,,Luxury Compact SUVs,15
+Tesla Model S,Tesla,Model S,29950,50,,387,518,,Luxury Large Cars,1
+Cadillac XTS,Cadillac,XTS,17729,50,21.5,264,304,87,Luxury Large Cars,2
+Cadillac CT6,Cadillac,CT6,9669,50,26,258,237,86,Luxury Large Cars,3
+Lincoln Continental,Lincoln,Continental,8758,50,21.5,280,305,92,Luxury Large Cars,4
+Audi A7,Audi,A7,3852,50,25.5,369,335,89,Luxury Large Cars,5
+BMW 6-Series,BMW,6-Series,3762,50,21.5,332,335,85,Luxury Large Cars,6
+Genesis G90,Genesis,G90,2136,50,19.5,376,365,91,Luxury Large Cars,7
+Acura RLX,Acura,RLX,1931,50,24,272,310,,Luxury Large Cars,8
+Kia K900,Kia,K900,354,50,21.5,376,365,,Luxury Large Cars,9
+Cadillac Escalade,Cadillac,Escalade,36032,50,18.5,460,420,91,Luxury Large SUVs,1
+Mercedes-Benz GLS-Class,Mercedes-Benz,GLS-Class,21973,50,17.5,369,362,88,Luxury Large SUVs,2
+Land Rover Range Rover,Land,Rover,19030,50,20.5,332,340,80,Luxury Large SUVs,3
+Lincoln Navigator,Lincoln,Navigator,17839,50,19.5,500,450,91,Luxury Large SUVs,4
+Lexus LX,Lexus,LX,4753,50,15.5,403,383,89,Luxury Large SUVs,5
+Mercedes-Benz G-Class,Mercedes-Benz,G-Class,3593,50,22.5,450,416,85,Luxury Large SUVs,6
+Infiniti QX70,Infiniti,QX70,954,50,,,,88,Luxury Large SUVs,7
+Lexus ES,Lexus,ES,48482,50,27.5,267,302,88,Luxury Midsize Cars,1
+Mercedes-Benz E / CLS-Class,Mercedes-Benz,E-Class,46424,50,26,369,369,86,Luxury Midsize Cars,2
+BMW 5-Series,BMW,5-Series,43937,50,25.5,310,248,86,Luxury Midsize Cars,3
+Acura TLX,Acura,TLX,30468,50,24.5,182,206,84,Luxury Midsize Cars,4
+Lexus GX,Lexus,GX,26724,50,16.5,329,301,86,Luxury Midsize Cars,5
+Lincoln MKZ,Lincoln,MKZ,19852,50,23,275,245,83,Luxury Midsize Cars,6
+Cadillac CTS,Cadillac,CTS,11220,50,22,295,265,84,Luxury Midsize Cars,7
+Audi A6,Audi,A6,10561,50,25.5,369,335,81,Luxury Midsize Cars,8
+Volvo 90-Series,Volvo,S90,9892,50,28,258,250,79,Luxury Midsize Cars,9
+Genesis G80,Genesis,G80,7446,50,21,293,311,88,Luxury Midsize Cars,10
+Lexus GS,Lexus,GS,6604,50,24,258,241,91,Luxury Midsize Cars,11
+Infiniti Q70,Infiniti,Q70,4479,50,20.5,270,330,90,Luxury Midsize Cars,12
+Jaguar XF,Jaguar,XF,2208,50,30,269,247,80,Luxury Midsize Cars,13
+Lexus RX,Lexus,RX,111636,50,28.5,267,295,92,Luxury Midsize SUVs,1
+Cadillac XT5,Cadillac,XT5,60566,50,22,271,310,86,Luxury Midsize SUVs,2
+Acura MDX,Acura,MDX,51512,50,23,267,290,79,Luxury Midsize SUVs,3
+Infiniti QX60,Infiniti,QX60,47370,50,23,270,295,86,Luxury Midsize SUVs,4
+Mercedes-Benz GLE-Class,Mercedes-Benz,GLE-Class,46010,50,17.5,273,255,86,Luxury Midsize SUVs,5
+BMW X5,BMW,X5,45013,50,21.5,330,335,82,Luxury Midsize SUVs,6
+Audi Q7,Audi,Q7,37417,50,22,273,248,83,Luxury Midsize SUVs,7
+Volvo XC90,Volvo,XC90,31609,50,24,258,250,78,Luxury Midsize SUVs,8
+Lincoln MKX/Nautilus,Lincoln,MKX,28573,50,28,275,245,87,Luxury Midsize SUVs,9
+Tesla Model X,Tesla,Model X,27250,50,,387,518,,Luxury Midsize SUVs,10
+Land Rover Range Rover Sport,Land,Rover,24282,50,21.5,332,340,78,Luxury Midsize SUVs,11
+Porsche Cayenne,Porsche,Cayenne,11106,50,20.5,516,455,92,Luxury Midsize SUVs,12
+Land Rover Discovery / LR4,Land,Rover,9842,50,21,332,340,77,Luxury Midsize SUVs,13
+BMW X6,BMW,X6,6862,50,19,300,300,87,Luxury Midsize SUVs,14
+Lincoln MKT,Lincoln,MKT,2324,50,18,350,365,84,Luxury Midsize SUVs,15
+Audi Q8,Audi,Q8,2029,50,35.6,369,335,,Luxury Midsize SUVs,16
+Tesla Model 3,Tesla,Model 3,140317,50,,317,258,,Luxury Small Cars,1
+Mercedes-Benz C-Class,Mercedes-Benz,C-Class,54829,50,25.5,273,255,88,Luxury Small Cars,2
+Buick Enclave,Buick,Enclave,49648,50,21.5,266,310,83,Luxury Small Cars,3
+BMW 3-Series,BMW,3-Series,44578,50,28,295,255,83,Luxury Small Cars,4
+Infiniti Q50,Infiniti,Q50,34763,50,24.5,258,208,87,Luxury Small Cars,5
+A4,Audi,A4,34311,50,27.5,236,188,83,Luxury Small Cars,6
+BMW 4-Series,BMW,4-Series,31379,50,25,258,248,85,Luxury Small Cars,7
+Mercedes-Benz CLA-Class,Mercedes-Benz,CLA-Class,26269,50,30,258,208,84,Luxury Small Cars,8
+A5,Audi,A5,25972,50,25.5,273,248,85,Luxury Small Cars,9
+Lexus IS,Lexus,IS,22927,50,24.5,258,241,88,Luxury Small Cars,10
+A3,Audi,A3,18305,50,28.5,221,184,82,Luxury Small Cars,11
+Kia Stinger,Kia,Stinger,16806,50,23,260,255,83,Luxury Small Cars,12
+Volvo 60-Series,Volvo,S60,12176,50,28.5,258,260,75,Luxury Small Cars,13
+Alfa Romeo Giulia,Alfa,Romeo,11519,50,23,306,280,,Luxury Small Cars,14
+Acura ILX,Acura,ILX,11273,50,29,180,201,80,Luxury Small Cars,15
+Cadillac ATS,Cadillac,ATS,10860,50,23,295,272,84,Luxury Small Cars,16
+BMW 2-Series,BMW,2-Series,9208,50,26,258,248,81,Luxury Small Cars,17
+Infiniti Q60,Infiniti,Q60,8405,50,23.5,295,300,88,Luxury Small Cars,18
+BMW i3,BMW,I3,6120,50,,184,170,80,Luxury Small Cars,19
+Jaguar XE,Jaguar,XE,4704,50,29,269,247,,Luxury Small Cars,20
+Lexus RC,Lexus,RC,3358,50,23,258,241,85,Luxury Small Cars,21
+Genesis G70,Genesis,G70,358,50,24,260,252,,Luxury Small Cars,22
+Chevrolet Corvette,Chevrolet,Corvette,18789,50,18.5,460,455,85,Luxury Sports Cars,1
+Porsche 911,Porsche,911,9783,50,21.5,331,370,96,Luxury Sports Cars,2
+Porsche 718,Porsche,718,5276,50,,,,92,Luxury Sports Cars,3
+Buick Cascada,Buick,Cascada,4628,50,25,207,200,79,Luxury Sports Cars,4
+Jaguar F-Type,Jaguar,F-Type,2268,50,22.5,295,296,72,Luxury Sports Cars,5
+Mercedes-Benz SL-Class,Mercedes-Benz,SL-Class,2126,50,26,369,362,86,Luxury Sports Cars,6
+Mercedes-Benz SLC-Class,Mercedes-Benz,SLC-Class,1993,50,21.5,273,241,88,Luxury Sports Cars,7
+Lexus LC,Lexus,LC,1979,50,25.5,398,471,,Luxury Sports Cars,8
+Mercedes-Benz AMG GT,Mercedes-Benz,AMG,1525,50,18.5,384,429,,Luxury Sports Cars,9
+Audi TT,Audi,TT,1289,50,24.5,258,220,83,Luxury Sports Cars,10
+Audi R8,Audi,R8,927,50,18,398,532,,Luxury Sports Cars,11
+BMW i8,BMW,I8,772,50,,,,,Luxury Sports Cars,12
+Nissan GT-R,Nissan,GT-R,538,50,19,467,565,,Luxury Sports Cars,13
+Alfa Romeo 4C,Alfa,Romeo,238,50,28.5,258,237,,Luxury Sports Cars,14
+BMW 8-Series,BMW,8-Series,223,50,21.5,553,523,,Luxury Sports Cars,15
+Acura NSX,Acura,NSX,170,50,24,476,573,,Luxury Sports Cars,16
+BMW X1,BMW,X1,29057,50,27,258,228,79,Luxury Subcompact SUVs,1
+Mercedes-Benz GLA-Class,Mercedes-Benz,GLA-Class,24136,50,15,258,208,82,Luxury Subcompact SUVs,2
+Infiniti QX80,Infiniti,QX80,19207,50,16.5,413,400,89,Luxury Subcompact SUVs,3
+Audi Q3,Audi,Q3,16828,50,24,207,200,78,Luxury Subcompact SUVs,4
+BMW X2,BMW,X2,16154,50,26.5,258,228,,Luxury Subcompact SUVs,5
+Volvo XC40,Volvo,XC40,12420,50,28,221,187,,Luxury Subcompact SUVs,6
+Land Rover Range Rover Evoque,Land,Rover,9917,50,25,269,246,74,Luxury Subcompact SUVs,7
+Infiniti QX30,Infiniti,QX30,8101,50,27,258,208,73,Luxury Subcompact SUVs,8
+Cadillac XT4,Cadillac,XT4,7785,50,26,258,237,,Luxury Subcompact SUVs,9
+Jaguar E-Pace,Jaguar,E-Pace,5985,50,24.5,269,246,,Luxury Subcompact SUVs,10
+Lexus UX,Lexus,UX,453,50,33,151,169,,Luxury Subcompact SUVs,11
+Toyota Camry,Toyota,Camry,343439,50,29,187,203,78,Midsize Cars,1
+Honda Accord,Honda,Accord,291071,50,30,129,212,81,Midsize Cars,2
+Nissan Altima,Nissan,Altima,209146,50,32,178,182,84,Midsize Cars,3
+Ford Fusion,Ford,Fusion,173600,50,42,175,175,80,Midsize Cars,4
+Chevrolet Malibu,Chevrolet,Malibu,144542,50,29,129,122,80,Midsize Cars,5
+Hyundai Sonata,Hyundai,Sonata,105118,50,30,178,185,77,Midsize Cars,6
+Kia Optima,Kia,Optima,101603,50,29,178,185,80,Midsize Cars,7
+Volkswagen Passat,Volkswagen,Passat,41401,50,30.5,184,174,76,Midsize Cars,8
+Mazda 6,Mazda,Mazda 6,30938,50,26.5,186,187,79,Midsize Cars,9
+Subaru Impreza WRX,Subaru,Impreza,28730,50,27,258,268,75,Midsize Cars,10
+Honda Clarity FCV,Honda,Clarity,20174,50,,99,212,69,Midsize Cars,11
+Ford Explorer,Ford,Explorer,261571,50,21.5,255,290,80,Midsize SUVs,1
+Toyota Highlander,Toyota,Highlander,244511,50,23.5,184,185,80,Midsize SUVs,2
+Jeep Grand Cherokee,Jeep,Grand,224908,50,18.5,260,295,78,Midsize SUVs,3
+Honda Pilot,Honda,Pilot,159615,50,22.5,262,280,77,Midsize SUVs,4
+Chevrolet Traverse,Chevrolet,Traverse,146264,50,22,266,310,85,Midsize SUVs,5
+Toyota 4Runner,Toyota,4Runner,139694,50,19,278,270,83,Midsize SUVs,6
+Ford Edge,Ford,Edge,134122,50,24,280,250,80,Midsize SUVs,7
+Hyundai Santa Fe,Hyundai,Santa,117038,50,23,178,185,79,Midsize SUVs,8
+Kia Sorento,Kia,Sorento,107846,50,24,178,185,81,Midsize SUVs,9
+Dodge Journey,Dodge,Journey,94096,50,20.5,166,173,69,Midsize SUVs,10
+Buick Encore,Buick,Encore,93071,50,27.5,148,138,77,Midsize SUVs,11
+GMC Acadia,GMC,Acadia,88622,50,21.5,188,193,80,Midsize SUVs,12
+Nissan Murano,Nissan,Murano,83547,50,23,240,260,82,Midsize SUVs,13
+Nissan Pathfinder,Nissan,Pathfinder,67550,50,29,259,284,80,Midsize SUVs,14
+Volkswagen Atlas,Volkswagen,Atlas,59677,50,21.5,258,235,80,Midsize SUVs,15
+Subaru Ascent,Subaru,Ascent,36211,50,23.5,277,260,,Midsize SUVs,16
+Mazda CX-9,Mazda,CX-9,28257,50,29,310,227,77,Midsize SUVs,17
+Ford Flex,Ford,Flex,20308,50,19,254,287,78,Midsize SUVs,18
+Dodge Dart,Dodge,Dart,389,50,,,,72,Midsize SUVs,19
+Chevrolet Blazer,Chevrolet,Blazer,27,50,22.5,188,193,,Midsize SUVs,20
+Dodge Durango,Dodge,Durango,65947,50,19.5,260,293,77,Minivans,1
+Ford Mustang,Ford,Mustang,75842,50,23,350,310,83,Sports Cars,1
+Dodge Challenger,Dodge,Challenger,66716,50,21.5,268,305,80,Sports Cars,2
+Chevrolet Camaro,Chevrolet,Camaro,50963,50,22,295,275,83,Sports Cars,3
+Mazda MX-5 Miata,Mazda,MX-5 Miata,8971,50,30.5,151,181,79,Sports Cars,4
+Toyota 86 / FR-S,Toyota,86,4133,50,26.5,156,205,71,Sports Cars,5
+Subaru BRZ,Subaru,BRZ,3834,50,27,156,205,73,Sports Cars,6
+Fiat 124 Spider,Fiat,124,3515,50,30.5,184,160,68,Sports Cars,7
+Nissan 370Z,Nissan,370Z,3468,50,21.5,145,148,74,Sports Cars,8
+Nissan Versa,Nissan,Versa,75809,50,33,107,109,72,Subcompact Cars,1
+Ford Fiesta,Ford,Fiesta,51730,50,31,112,120,71,Subcompact Cars,2
+Honda Fit,Honda,Fit,35030,50,34.5,114,130,69,Subcompact Cars,3
+Hyundai Accent,Hyundai,Accent,29090,50,33,119,130,70,Subcompact Cars,4
+Toyota Yaris,Toyota,Yaris,27209,50,35,103,106,74,Subcompact Cars,5
+Mini Cooper,Mini,Cooper,26119,50,30,162,134,76,Subcompact Cars,6
+Mitsubishi Mirage,Mitsubishi,Mirage,24316,50,38,74,78,66,Subcompact Cars,7
+Chevrolet Spark,Chevrolet,Spark,23603,50,33.5,94,98,73,Subcompact Cars,8
+Kia Rio,Kia,Rio,22975,50,32.5,119,130,79,Subcompact Cars,9
+Chevrolet Sonic,Chevrolet,Sonic,20613,50,32,148,138,75,Subcompact Cars,10
+Volkswagen Beetle,Volkswagen,Beetle,14411,50,29.5,184,174,75,Subcompact Cars,11
+Fiat 500,Fiat,500,5370,50,28.5,150,135,55,Subcompact Cars,12
+Subaru CrossTrek,Subaru,CrossTrek,144384,50,28,145,152,74,Subcompact SUVs,1
+Kia Soul,Kia,Soul,104709,50,27.5,132,147,79,Subcompact SUVs,2
+Jeep Renegade,Jeep,Renegade,97062,50,25.5,175,180,72,Subcompact SUVs,3
+Chevrolet Trax,Chevrolet,Trax,89917,50,27.5,148,138,76,Subcompact SUVs,4
+Honda HR-V,Honda,HR-V,85494,50,30,127,141,66,Subcompact SUVs,5
+Ford EcoSport,Ford,EcoSport,54348,50,26,125,123,73,Subcompact SUVs,6
+Toyota C-HR,Toyota,C-HR,49642,50,31.5,139,144,75,Subcompact SUVs,7
+Hyundai Kona,Hyundai,Kona,47090,50,29,132,147,,Subcompact SUVs,8
+Mitsubishi Outlander Sport,Mitsubishi,Outlander,36867,50,26.5,,,78,Subcompact SUVs,9
+Buick Envision,Buick,Envision,30153,50,24.5,192,197,83,Subcompact SUVs,10
+Kia Niro,Kia,Niro,28232,50,47.5,195,139,73,Subcompact SUVs,11
+Nissan Kicks,Nissan,Kicks,23312,50,33.5,115,125,,Subcompact SUVs,12
+Mini Countryman,Mini,Countryman,17565,50,27,162,134,83,Subcompact SUVs,13
+Mazda CX-3,Mazda,CX-3,16899,50,24,146,148,68,Subcompact SUVs,14
+Fiat 500X,Fiat,500X,5223,50,27,184,160,62,Subcompact SUVs,15
+Mercedes-Benz S-Class,Mercedes-Benz,S-Class,14978,50,20.5,369,362,93,Super Luxury Cars,1
+Lexus LS,Lexus,LS,9301,50,25.5,442,416,92,Super Luxury Cars,2
+BMW 7-Series,BMW,7-Series,8271,50,21,330,320,89,Super Luxury Cars,3
+Porsche Panamera,Porsche,Panamera,8114,50,24.5,331,330,85,Super Luxury Cars,4
+Audi A8,Audi,A8,1599,50,23,369,335,87,Super Luxury Cars,5
+Jaguar XJ,Jaguar,XJ,1579,50,21,332,340,87,Super Luxury Cars,6
+Subaru Outback,Subaru,Outback,178854,50,22,174,175,78,Wagons,1
+Fiat 500L,Fiat,500L,1413,50,26,184,160,59,Wagons,2
+Mercedes-Benz B-Class,Mercedes-Benz,B-Class,135,50,,,,,Wagons,3
+Land Rover Range Rover Velar,Land,Rover,17037,50,24,269,247,71,,
+Mitsubishi Outlander PHEV,Mitsubishi,Outlander,3866,50,,162,166,,,
+Volkswagen Touareg,Volkswagen,Touareg,2022,50,,,,83,,
+Toyota Mirai,Toyota,Mirai,1689,50,53.5,,,75,,
+Chrysler 200,Chrysler,200,1043,50,,,,75,,
+Nissan Juke,Nissan,Juke,731,50,33.5,,,72,,
+Hyundai Azera,Hyundai,Azera,629,50,,,,80,,
+Jeep Patriot,Jeep,Patriot,621,50,,,,69,,
+Volkswagen CC,Volkswagen,CC,455,50,,,,85,,
+Ford GT,Ford,GT,126,50,,,,,,
+Honda CR-Z,Honda,CR-Z,30,50,,,,72,,
+Dodge Viper,Dodge,Viper,19,50,,,,,,
+Toyota Venza,Toyota,Venza,9,50,,,,82,,
+Hyundai Nexo,Hyundai,Nexo,8,50,,,,,,

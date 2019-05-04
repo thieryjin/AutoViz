@@ -39,7 +39,7 @@ function populate(s1,s2){
     ];
     }
     if(s1.value == "Chevy") {
-        var optionArray = ["|Model", "Bolt|Bolt","Camero|Camaro","Corvette|Corvette","Cruze|Cruze","Equinox|Equinox","Impala|Impala","Malibu|Malibu",
+        var optionArray = ["|Model", "Bolt|Bolt","Camaro|Camaro","Corvette|Corvette","Cruze|Cruze","Equinox|Equinox","Impala|Impala","Malibu|Malibu",
         "Sonic|Sonic","Spark|Spark","Suburban|Suburban",
         "Tahoe|Tahoe","Traverse|Traverse","Trax|Trax",
         "Volt|Volt"

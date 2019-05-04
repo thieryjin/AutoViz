@@ -30,7 +30,7 @@ var svg1 = d3.select("#sales")
 
 
 d3.queue()
-    .defer(d3.csv, 'sales.csv')
+    .defer(d3.csv, 'full.csv')
     .defer(d3.csv, 'depreciation.csv')
     .await(processData);
 //Read the data
