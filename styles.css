@@ -106,3 +106,17 @@ h2 {
 	  top:50px;
   	left:3%;
   }
+  .legend{
+    
+    float:right;
+    width:20%;	
+    border:none;
+    background:#b3b3b3;
+    font-size: 90%;
+    font-family: Sans-serif;
+    color:white;
+    position:relative;
+    top:50px;
+    right:1%;
+  	border:1px solid black;
+  }
