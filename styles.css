@@ -94,3 +94,15 @@ h2 {
     background: #00b7ea;
     margin: 2%;
   }
+
+  .introduction{
+    float:left;
+    border:none;
+    background:#b3b3b3;
+    font-size: 90%;
+    font-family: Sans-serif;
+    color:Gold;
+    position:relative;
+	  top:50px;
+  	left:3%;
+  }
