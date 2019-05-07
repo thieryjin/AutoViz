@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+        <meta charset="UTF-8">
 <title>Car Visualization</title>
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script type="text/javascript" src="dropdownlist.js"></script>
-<script type="text/javascript" src="carimg.js"></script>
+<script src="dropdownlist.js"></script>
+<script src="carimg.js"></script>
 
 <script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
@@ -80,7 +81,7 @@ Choose Year:
 <h3>Choose Your Comparison Car</h3>
 <hr/>
 Choose Car Make:
-<select name="slct4" id="slct4" onchange="populate(this.id,'slct5')">
+<select id="slct4" onchange="populate(this.id,'slct5')">
     <option value="">Make</option>
     <option value="Acura">Acura</option>
     <option value="Audi">Audi</option>
@@ -113,13 +114,13 @@ Choose Car Make:
 </select>
 <hr/>
 Choose Car Model:
-<select name="slct5" id="slct5">
+<select id="slct5">
     <option value="">Model</option>
 </select>
 
 <hr/>
 Choose Year:
-<select name="slct3" id="slct3">
+<select id="slct3">
     <option value="">Year</option>
     <option value="2018">2018</option>
 </select>
@@ -128,7 +129,7 @@ Choose Year:
 </section>
 <h2 class="description">Depreciation Comparison</h2>
 <section id="my_dataviz">
-    <p class="introduction" rows="6" cols="60">
+    <p class="introduction">
 "Everyone knows that cars lose a lot of their value as 
 soon as they are driven off the lot. But few people
 realize that this fact presents a cost-saving 
@@ -136,10 +137,10 @@ opportunity for the savvy shopper who avoids that
 initial hit in depreciation."<br><br>
                                   -- Ronald Montoya</p>
     <p class="legend">
-        Legend: <br><br><span style="color:#FF0000";>Red Line</span>
+        Legend: <br><br><span style="color:#FF0000">Red Line</span>
         represents the depreciation value
         of first selected (left) vehicle <br>
-        <span style="color:blue";>Blue Line</span> represents the depreciation value
+        <span style="color:blue">Blue Line</span> represents the depreciation value
         of second selected (right) vehicle
     </p>
 </section>
@@ -155,17 +156,17 @@ initial hit in depreciation."<br><br>
         -- statista.com</p>
 
     <p class="legend">
-        Legend: <br><br><span style="color:#FF0000";>Red Dot</span>
+        Legend: <br><br><span style="color:#FF0000">Red Dot</span>
         represents the Annual Sales
         of first selected (left) vehicle <br>
-        <span style="color:blue";>Blue Dot</span> represents the Annual Sales
+        <span style="color:blue">Blue Dot</span> represents the Annual Sales
         of second selected (right) vehicle <br>
-        <span style="color:green";>Green Dots</span> represent the 2018 Annual Sales
+        <span style="color:green">Green Dots</span> represent the 2018 Annual Sales
         of all vehicles
     </p>    
 </div>
 
-<script type="text/javascript" src="sales.js"></script> 
+<script src="sales.js"></script> 
 
 <h2 class="description">About Us</h2>
 
