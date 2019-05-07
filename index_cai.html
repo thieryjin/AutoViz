@@ -8,39 +8,17 @@
 
 <script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
-	
-
 <script src="https://d3js.org/d3-path.v1.min.js" charset="utf-8"></script>
 <script src="radarbuild.js" charset="utf-8"></script>
 
 
-<link rel="stylesheet" href="styles.css">
+
 <!-- Google fonts -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 
+<link rel="stylesheet" href="styles.css">
 
-
-<style>
-    body {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 11px;
-        font-weight: 300;
-        fill: #242424;
-        text-align: center;
-        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
-        cursor: default;
-    }
-    
-    .legend {
-        font-family: 'Raleway', sans-serif;
-        fill: #333333;
-    }
-    
-    .tooltip {
-        fill: #333333;
-    }
-</style>
   
 </head>
 <body>
@@ -156,11 +134,52 @@ Choose Year:
 <hr/>
 </div>
 </section>
+<h2 class="description">Depreciation Comparison</h2>
+<section id="my_dataviz">
+    <p class="introduction" rows="6" cols="60">
+"Everyone knows that cars lose a lot of their value as 
+soon as they are driven off the lot. But few people
+realize that this fact presents a cost-saving 
+opportunity for the savvy shopper who avoids that 
+initial hit in depreciation."<br><br>
+                                  -- Ronald Montoya</p>
+    <p class="legend">
+        Legend: <br><br><span style="color:#FF0000";>Red Line</span>
+        represents the depreciation value
+        of first selected (left) vehicle <br>
+        <span style="color:blue";>Blue Line</span> represents the depreciation value
+        of second selected (right) vehicle
+    </p>
+</section>
+<h2 class="description">Annual Sales Comparison Among All Cars</h2>
+<div id="sales">
+    <p class="introduction">
+        "U.S. motor vehicle sales are expected to have hit a peak of 17.6 million 
+        units by 2018. U.S. car buyers might hope to lessen their carbon 
+        footprint by switching to an electric vehicle or a smaller, 
+        more energy-efficient model. Mid-size cars and small cars are proving 
+        increasingly popular among U.S. customers, although cross utility vehicles 
+        remain in high demand." <br><br>
+        -- statista.com</p>
 
+    <p class="legend">
+        Legend: <br><br><span style="color:#FF0000";>Red Dot</span>
+        represents the Annual Sales
+        of first selected (left) vehicle <br>
+        <span style="color:blue";>Blue Dot</span> represents the Annual Sales
+        of second selected (right) vehicle <br>
+        <span style="color:green";>Green Dots</span> represent the 2018 Annual Sales
+        of all vehicles
+    </p>    
+</div>
 
-<div class="radarChart"></div>
+<script type="text/javascript" src="sales.js"></script> 
+
+</section>
+<h2 class="description">Car Dimension Comparison Among All Cars</h2>
+<div id ="radar", class="radarChart"></div>
 <script type="text/javascript" src="radarj3v4.js"></script> 
 
- 
+
 </body>
 </html>
