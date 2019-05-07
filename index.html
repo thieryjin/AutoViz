@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Car Visualization</title>
 <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -26,7 +26,7 @@
 <h3>Choose Your Car</h3>
 <hr/>
 Choose Car Make:
-<select name="slct1" id="slct1" onchange="populate(this.id,'slct2')">
+<select id="slct1" onchange="populate(this.id,'slct2')">
     <option value="">Make</option>
     <option value="Acura">Acura</option>
     <option value="Audi">Audi</option>
@@ -59,13 +59,13 @@ Choose Car Make:
 </select>
 <hr/>
 Choose Car Model:
-<select name="slct2" id="slct2" onchange="update(this.value)">
+<select id="slct2" onchange="update(this.value)">
     <option value="">Model</option>
 </select>
 
 <hr/>
 Choose Year:
-<select name="slct3" id="slct3">
+<select id="slct3">
     <option value="">Year</option>
     <option value="2018">2018</option>
 </select>
