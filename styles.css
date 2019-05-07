@@ -14,6 +14,7 @@ header{
 }
 
 h1{
+  clear:both;
   border: 5px solid #000000;
   text-align: center;
   padding:2%;

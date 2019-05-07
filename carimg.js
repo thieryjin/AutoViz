@@ -20,20 +20,18 @@ function update(val) {
 }
 
 
-window.onload=function() {
-    document.getElementById("slct5").onchange=function() {
-    if (this.value == ""){
+function update1(val) {
+    if (val == ""){
         var dd2 = document.getElementById("d2");
-        const context = dd2.getContext('2d');
+        const context = dd1.getContext('2d');
         context.clearRect(0, 0, dd2.width, dd2.height);
     }
     else {
     
-        var x = this.value;
-        var filepath = "pic/"+x+".jpg";
-        var img= new SimpleImage(filepath);
-        var dd2 = document.getElementById("d2");
+        var filepath = "pic/"+val+".jpg";
+    var img= new SimpleImage(filepath);
+    var dd2 = document.getElementById("d2");
         img.drawTo(dd2);
-    }
+    
 }
 }

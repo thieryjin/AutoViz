@@ -57,7 +57,7 @@ div.option {
 div.option:hover {
   opacity: 0.9;
 }
-img {
+img.reset {
   position: absolute;
   right: 10px;
   top: 0px;
@@ -65,6 +65,6 @@ img {
   height: 20px;
   cursor: pointer;
 }
-img:hover {
+img.reset:hover {
   opacity: 0.6;
 }
