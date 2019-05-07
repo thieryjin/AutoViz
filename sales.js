@@ -30,7 +30,7 @@ var svg1 = d3.select("#sales")
 
 
 d3.queue()
-    .defer(d3.csv, 'full.csv')
+    .defer(d3.csv, 'full_update.csv')
     .defer(d3.csv, 'depreciation.csv')
     .await(processData);
 //Read the data
@@ -76,14 +76,12 @@ function processData(error, data1, data2) {
     .enter()
     .append("circle")
       .attr("cx", function (d) { return d=150; } )
-      .attr("cy", function (d) { return y1(d.YTD); } )
+      .attr("cy", function (d) { return y1(+d.YTD); } )
       .attr("r", 7)
       .style("fill", "#69b3a2")
       .style("opacity", 0.3)
       .style("stroke", "white")
-   
-
-      
+    
     d3.select("#slct2").on("change", function(d) {
         // recover the option that has been chosen
         var selectedOption1 = d3.select(this).property("value")
@@ -251,7 +249,6 @@ function processData(error, data1, data2) {
         // Give these new data to update line
         svg1.append('g')
         .append("circle").data(dataFilter1)
-        
         .attr("cx", function (d) { return d=150; } )
         .attr("cy", function (d) { return y1(+d.YTD); } )
         .attr("r", 8.1)
