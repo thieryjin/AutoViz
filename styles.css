@@ -144,3 +144,27 @@ h2 {
     height:67px;
   }
   
+  .column {
+    float: left;
+    width: 29.3%;
+    padding:2%;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .photo {
+    display: block;
+    width: 110px;
+    border-radius: 50%;
+    margin: auto;
+  }
+  .name {
+    text-align: center;
+    
+  }
