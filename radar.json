@@ -1,0 +1,2010 @@
+[
+  {
+    "Model": "A3",
+    "MPG": 0.9,
+    "Torque": 0.605,
+    "Horsepower": 0.42,
+    "Reliability": 0.6,
+    "Wheelbase": 0.46
+  },
+  {
+    "Model": "A4",
+    "MPG": 0.833,
+    "Torque": 0.68,
+    "Horsepower": 0.44,
+    "Reliability": 0.65,
+    "Wheelbase": 0.7
+  },
+  {
+    "Model": "A5",
+    "MPG": 0.7,
+    "Torque": 0.865,
+    "Horsepower": 0.74,
+    "Reliability": 0.75,
+    "Wheelbase": 0.667
+  },
+  {
+    "Model": "ILX",
+    "MPG": 0.933,
+    "Torque": 0.4,
+    "Horsepower": 0.505,
+    "Reliability": 0.5,
+    "Wheelbase": 0.5
+  },
+  {
+    "Model": "MDX",
+    "MPG": 0.533,
+    "Torque": 0.835,
+    "Horsepower": 0.95,
+    "Reliability": 0.45,
+    "Wheelbase": 0.7
+  },
+  {
+    "Model": "NSX",
+    "MPG": 0.6,
+    "Torque": 1.88,
+    "Horsepower": 2.365,
+    "Reliability": 0.5,
+    "Wheelbase": 0.45
+  },
+  {
+    "Model": "RDX",
+    "MPG": 0.433,
+    "Torque": 0.9,
+    "Horsepower": 0.86,
+    "Reliability": 0.6,
+    "Wheelbase": 0.61
+  },
+  {
+    "Model": "RLX",
+    "MPG": 0.6,
+    "Torque": 0.86,
+    "Horsepower": 1.05,
+    "Reliability": 0.65,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "TLX",
+    "MPG": 0.633,
+    "Torque": 0.41,
+    "Horsepower": 0.53,
+    "Reliability": 0.7,
+    "Wheelbase": 0.643
+  },
+  {
+    "Model": "4C",
+    "MPG": 0.9,
+    "Torque": 0.79,
+    "Horsepower": 0.685,
+    "Reliability": 0.5,
+    "Wheelbase": 0.123
+  },
+  {
+    "Model": "Giulia",
+    "MPG": 0.533,
+    "Torque": 1.03,
+    "Horsepower": 0.9,
+    "Reliability": 0.5,
+    "Wheelbase": 0.7
+  },
+  {
+    "Model": "Stelvio",
+    "MPG": 0.533,
+    "Torque": 1.03,
+    "Horsepower": 0.9,
+    "Reliability": 0.5,
+    "Wheelbase": 0.697
+  },
+  {
+    "Model": "A6",
+    "MPG": 0.7,
+    "Torque": 1.345,
+    "Horsepower": 1.175,
+    "Reliability": 0.55,
+    "Wheelbase": 0.837
+  },
+  {
+    "Model": "A7",
+    "MPG": 0.7,
+    "Torque": 1.345,
+    "Horsepower": 1.175,
+    "Reliability": 0.95,
+    "Wheelbase": 0.84
+  },
+  {
+    "Model": "A8",
+    "MPG": 0.533,
+    "Torque": 1.345,
+    "Horsepower": 1.175,
+    "Reliability": 0.85,
+    "Wheelbase": 1.103
+  },
+  {
+    "Model": "Q3",
+    "MPG": 0.6,
+    "Torque": 0.535,
+    "Horsepower": 0.5,
+    "Reliability": 0.4,
+    "Wheelbase": 0.417
+  },
+  {
+    "Model": "Q5",
+    "MPG": 0.533,
+    "Torque": 0.865,
+    "Horsepower": 0.74,
+    "Reliability": 0.7,
+    "Wheelbase": 0.7
+  },
+  {
+    "Model": "Q7",
+    "MPG": 0.467,
+    "Torque": 0.865,
+    "Horsepower": 0.74,
+    "Reliability": 0.65,
+    "Wheelbase": 0.93
+  },
+  {
+    "Model": "Q8",
+    "MPG": 0.707,
+    "Torque": 1.345,
+    "Horsepower": 1.175,
+    "Reliability": 0.65,
+    "Wheelbase": 0.93
+  },
+  {
+    "Model": "R8",
+    "MPG": 0.2,
+    "Torque": 1.49,
+    "Horsepower": 2.16,
+    "Reliability": 0.6,
+    "Wheelbase": 0.48
+  },
+  {
+    "Model": "TT",
+    "MPG": 0.633,
+    "Torque": 0.79,
+    "Horsepower": 0.6,
+    "Reliability": 0.65,
+    "Wheelbase": 0.287
+  },
+  {
+    "Model": "2-Series",
+    "MPG": 0.733,
+    "Torque": 0.79,
+    "Horsepower": 0.74,
+    "Reliability": 0.55,
+    "Wheelbase": 0.53
+  },
+  {
+    "Model": "3-Series",
+    "MPG": 0.867,
+    "Torque": 0.975,
+    "Horsepower": 0.775,
+    "Reliability": 0.65,
+    "Wheelbase": 0.717
+  },
+  {
+    "Model": "4-Series",
+    "MPG": 0.667,
+    "Torque": 0.79,
+    "Horsepower": 0.74,
+    "Reliability": 0.75,
+    "Wheelbase": 0.687
+  },
+  {
+    "Model": "5-Series",
+    "MPG": 0.7,
+    "Torque": 1.05,
+    "Horsepower": 0.74,
+    "Reliability": 0.8,
+    "Wheelbase": 0.903
+  },
+  {
+    "Model": "6-Series",
+    "MPG": 0.433,
+    "Torque": 1.16,
+    "Horsepower": 1.175,
+    "Reliability": 0.75,
+    "Wheelbase": 0.96
+  },
+  {
+    "Model": "7-Series",
+    "MPG": 0.4,
+    "Torque": 1.15,
+    "Horsepower": 1.1,
+    "Reliability": 0.95,
+    "Wheelbase": 1.213
+  },
+  {
+    "Model": "8-Series",
+    "MPG": 0.433,
+    "Torque": 2.265,
+    "Horsepower": 2.115,
+    "Reliability": 0.9,
+    "Wheelbase": 0.523
+  },
+  {
+    "Model": "I3",
+    "MPG": 1.667,
+    "Torque": 0.42,
+    "Horsepower": 0.35,
+    "Reliability": 0.5,
+    "Wheelbase": 0.373
+  },
+  {
+    "Model": "I8",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -3.5,
+    "Wheelbase": 0.673
+  },
+  {
+    "Model": "X1",
+    "MPG": 0.8,
+    "Torque": 0.79,
+    "Horsepower": 0.64,
+    "Reliability": 0.45,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "X2",
+    "MPG": 0.767,
+    "Torque": 0.79,
+    "Horsepower": 0.64,
+    "Reliability": 0.5,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "X3",
+    "MPG": 0.667,
+    "Torque": 0.79,
+    "Horsepower": 0.74,
+    "Reliability": 0.8,
+    "Wheelbase": 0.76
+  },
+  {
+    "Model": "X4",
+    "MPG": 0.633,
+    "Torque": 0.79,
+    "Horsepower": 0.74,
+    "Reliability": 0.8,
+    "Wheelbase": 0.757
+  },
+  {
+    "Model": "X5",
+    "MPG": 0.433,
+    "Torque": 1.15,
+    "Horsepower": 1.175,
+    "Reliability": 0.6,
+    "Wheelbase": 0.903
+  },
+  {
+    "Model": "X6",
+    "MPG": 0.267,
+    "Torque": 1,
+    "Horsepower": 1,
+    "Reliability": 0.85,
+    "Wheelbase": 0.85
+  },
+  {
+    "Model": "Cascada",
+    "MPG": 0.667,
+    "Torque": 0.535,
+    "Horsepower": 0.5,
+    "Reliability": 0.45,
+    "Wheelbase": 0.537
+  },
+  {
+    "Model": "Enclave",
+    "MPG": 0.433,
+    "Torque": 0.83,
+    "Horsepower": 1.05,
+    "Reliability": 0.65,
+    "Wheelbase": 1.03
+  },
+  {
+    "Model": "Encore",
+    "MPG": 0.833,
+    "Torque": 0.24,
+    "Horsepower": 0.19,
+    "Reliability": 0.35,
+    "Wheelbase": 0.353
+  },
+  {
+    "Model": "Envision",
+    "MPG": 0.633,
+    "Torque": 0.46,
+    "Horsepower": 0.485,
+    "Reliability": 0.65,
+    "Wheelbase": 0.61
+  },
+  {
+    "Model": "LaCrosse",
+    "MPG": 0.833,
+    "Torque": 0.435,
+    "Horsepower": 0.47,
+    "Reliability": 0.85,
+    "Wheelbase": 0.813
+  },
+  {
+    "Model": "Regal",
+    "MPG": 0.7,
+    "Torque": 0.8,
+    "Horsepower": 0.75,
+    "Reliability": 0.7,
+    "Wheelbase": 0.713
+  },
+  {
+    "Model": "ATS",
+    "MPG": 0.533,
+    "Torque": 0.975,
+    "Horsepower": 0.86,
+    "Reliability": 0.7,
+    "Wheelbase": 0.523
+  },
+  {
+    "Model": "CT6",
+    "MPG": 0.733,
+    "Torque": 0.79,
+    "Horsepower": 0.685,
+    "Reliability": 0.8,
+    "Wheelbase": 1.08
+  },
+  {
+    "Model": "CTS",
+    "MPG": 0.467,
+    "Torque": 0.975,
+    "Horsepower": 0.825,
+    "Reliability": 0.7,
+    "Wheelbase": 3.517
+  },
+  {
+    "Model": "Escalade",
+    "MPG": 0.233,
+    "Torque": 1.8,
+    "Horsepower": 1.6,
+    "Reliability": 1.05,
+    "Wheelbase": 1.03
+  },
+  {
+    "Model": "XT4",
+    "MPG": 0.733,
+    "Torque": 0.79,
+    "Horsepower": 0.685,
+    "Reliability": 0.8,
+    "Wheelbase": 0.647
+  },
+  {
+    "Model": "XT5",
+    "MPG": 0.467,
+    "Torque": 0.855,
+    "Horsepower": 1.05,
+    "Reliability": 0.8,
+    "Wheelbase": 0.75
+  },
+  {
+    "Model": "XTS",
+    "MPG": 0.433,
+    "Torque": 0.82,
+    "Horsepower": 1.02,
+    "Reliability": 0.85,
+    "Wheelbase": 0.723
+  },
+  {
+    "Model": "Blazer",
+    "MPG": 0.5,
+    "Torque": 0.44,
+    "Horsepower": 0.465,
+    "Reliability": 0.5,
+    "Wheelbase": 0.757
+  },
+  {
+    "Model": "Bolt",
+    "MPG": -1,
+    "Torque": 0.83,
+    "Horsepower": 0.5,
+    "Reliability": 0.15,
+    "Wheelbase": 0.413
+  },
+  {
+    "Model": "Camaro",
+    "MPG": 0.467,
+    "Torque": 0.975,
+    "Horsepower": 0.875,
+    "Reliability": 0.65,
+    "Wheelbase": 0.69
+  },
+  {
+    "Model": "Corvette",
+    "MPG": 0.233,
+    "Torque": 1.8,
+    "Horsepower": 1.775,
+    "Reliability": 0.75,
+    "Wheelbase": 0.557
+  },
+  {
+    "Model": "Cruze",
+    "MPG": 1.533,
+    "Torque": 0.385,
+    "Horsepower": 0.265,
+    "Reliability": 0.55,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Equinox",
+    "MPG": 1.033,
+    "Torque": 0.515,
+    "Horsepower": 0.35,
+    "Reliability": 0.55,
+    "Wheelbase": 0.577
+  },
+  {
+    "Model": "Impala",
+    "MPG": 0.733,
+    "Torque": 0.455,
+    "Horsepower": 0.485,
+    "Reliability": 0.65,
+    "Wheelbase": 0.723
+  },
+  {
+    "Model": "Malibu",
+    "MPG": 0.933,
+    "Torque": 0.145,
+    "Horsepower": 0.11,
+    "Reliability": 0.5,
+    "Wheelbase": 0.713
+  },
+  {
+    "Model": "Sonic",
+    "MPG": 1.133,
+    "Torque": 0.24,
+    "Horsepower": 0.19,
+    "Reliability": 0.25,
+    "Wheelbase": 0.313
+  },
+  {
+    "Model": "Spark",
+    "MPG": 1.233,
+    "Torque": -0.03,
+    "Horsepower": -0.01,
+    "Reliability": 0.15,
+    "Wheelbase": 0.13
+  },
+  {
+    "Model": "Suburban",
+    "MPG": 0.233,
+    "Torque": 1.415,
+    "Horsepower": 1.275,
+    "Reliability": 0.65,
+    "Wheelbase": 1.333
+  },
+  {
+    "Model": "Tahoe",
+    "MPG": 0.233,
+    "Torque": 1.415,
+    "Horsepower": 1.275,
+    "Reliability": 0.7,
+    "Wheelbase": 0.867
+  },
+  {
+    "Model": "Traverse",
+    "MPG": 0.467,
+    "Torque": 0.83,
+    "Horsepower": 1.05,
+    "Reliability": 0.75,
+    "Wheelbase": 1.03
+  },
+  {
+    "Model": "Trax",
+    "MPG": 0.833,
+    "Torque": 0.24,
+    "Horsepower": 0.19,
+    "Reliability": 0.3,
+    "Wheelbase": 0.353
+  },
+  {
+    "Model": "Volt",
+    "MPG": 1.833,
+    "Torque": 0.97,
+    "Horsepower": 0.245,
+    "Reliability": -0.05,
+    "Wheelbase": 0.523
+  },
+  {
+    "Model": 200,
+    "MPG": 0.667,
+    "Torque": 0.75,
+    "Horsepower": 0.85,
+    "Reliability": 0.25,
+    "Wheelbase": 0.6
+  },
+  {
+    "Model": 300,
+    "MPG": 0.533,
+    "Torque": 0.8,
+    "Horsepower": 0.96,
+    "Reliability": 0.6,
+    "Wheelbase": 1.007
+  },
+  {
+    "Model": "Challenger",
+    "MPG": 0.433,
+    "Torque": 0.84,
+    "Horsepower": 1.025,
+    "Reliability": 0.5,
+    "Wheelbase": 0.873
+  },
+  {
+    "Model": "Charger",
+    "MPG": 0.433,
+    "Torque": 0.8,
+    "Horsepower": 0.96,
+    "Reliability": 0.6,
+    "Wheelbase": 1.007
+  },
+  {
+    "Model": "Dart",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.1,
+    "Wheelbase": 0.547
+  },
+  {
+    "Model": "Durango",
+    "MPG": 0.3,
+    "Torque": 0.8,
+    "Horsepower": 0.965,
+    "Reliability": 0.35,
+    "Wheelbase": 0.993
+  },
+  {
+    "Model": "Journey",
+    "MPG": 0.367,
+    "Torque": 0.33,
+    "Horsepower": 0.365,
+    "Reliability": -0.05,
+    "Wheelbase": 0.793
+  },
+  {
+    "Model": "Viper",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -3.5,
+    "Wheelbase": -3
+  },
+  {
+    "Model": 124,
+    "MPG": 1.033,
+    "Torque": 0.42,
+    "Horsepower": 0.3,
+    "Reliability": -0.1,
+    "Wheelbase": 0.03
+  },
+  {
+    "Model": 500,
+    "MPG": 0.9,
+    "Torque": 0.25,
+    "Horsepower": 0.175,
+    "Reliability": -0.75,
+    "Wheelbase": -0.375
+  },
+  {
+    "Model": "500L",
+    "MPG": 0.733,
+    "Torque": 0.42,
+    "Horsepower": 0.3,
+    "Reliability": -0.55,
+    "Wheelbase": 0.427
+  },
+  {
+    "Model": "500X",
+    "MPG": 0.8,
+    "Torque": 0.42,
+    "Horsepower": 0.3,
+    "Reliability": -0.4,
+    "Wheelbase": 0.373
+  },
+  {
+    "Model": "C-Max",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.25,
+    "Wheelbase": 0.477
+  },
+  {
+    "Model": "EcoSport",
+    "MPG": 0.733,
+    "Torque": 0.125,
+    "Horsepower": 0.115,
+    "Reliability": 0.15,
+    "Wheelbase": 0.307
+  },
+  {
+    "Model": "Edge",
+    "MPG": 0.6,
+    "Torque": 0.9,
+    "Horsepower": 0.75,
+    "Reliability": 0.5,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "Escape",
+    "MPG": 0.7,
+    "Torque": 0.35,
+    "Horsepower": 0.34,
+    "Reliability": 0.4,
+    "Wheelbase": 0.53
+  },
+  {
+    "Model": "Expedition",
+    "MPG": 0.333,
+    "Torque": 1.85,
+    "Horsepower": 1.375,
+    "Reliability": 0.8,
+    "Wheelbase": 1.083
+  },
+  {
+    "Model": "Explorer",
+    "MPG": 0.433,
+    "Torque": 0.775,
+    "Horsepower": 0.95,
+    "Reliability": 0.5,
+    "Wheelbase": 0.97
+  },
+  {
+    "Model": "Fiesta",
+    "MPG": 1.067,
+    "Torque": 0.06,
+    "Horsepower": 0.1,
+    "Reliability": 0.05,
+    "Wheelbase": 0.267
+  },
+  {
+    "Model": "Flex",
+    "MPG": 0.267,
+    "Torque": 0.77,
+    "Horsepower": 0.935,
+    "Reliability": 0.4,
+    "Wheelbase": 0.93
+  },
+  {
+    "Model": "Focus",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.25,
+    "Wheelbase": 0.473
+  },
+  {
+    "Model": "Fusion",
+    "MPG": 1.8,
+    "Torque": 0.375,
+    "Horsepower": 0.375,
+    "Reliability": 0.5,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "GT",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -3.5,
+    "Wheelbase": 0.557
+  },
+  {
+    "Model": "Mustang",
+    "MPG": 0.533,
+    "Torque": 1.25,
+    "Horsepower": 1.05,
+    "Reliability": 0.65,
+    "Wheelbase": 0.57
+  },
+  {
+    "Model": "Taurus",
+    "MPG": 0.4,
+    "Torque": 0.77,
+    "Horsepower": 0.94,
+    "Reliability": 0.6,
+    "Wheelbase": 0.763
+  },
+  {
+    "Model": "G70",
+    "MPG": 0.6,
+    "Torque": 0.8,
+    "Horsepower": 0.76,
+    "Reliability": -3.5,
+    "Wheelbase": 0.72
+  },
+  {
+    "Model": "G80",
+    "MPG": 0.4,
+    "Torque": 0.965,
+    "Horsepower": 1.055,
+    "Reliability": 0.9,
+    "Wheelbase": 0.95
+  },
+  {
+    "Model": "G90",
+    "MPG": 0.3,
+    "Torque": 1.38,
+    "Horsepower": 1.325,
+    "Reliability": 1.05,
+    "Wheelbase": 1.147
+  },
+  {
+    "Model": "Acadia",
+    "MPG": 0.433,
+    "Torque": 0.44,
+    "Horsepower": 0.465,
+    "Reliability": 0.5,
+    "Wheelbase": 0.75
+  },
+  {
+    "Model": "Terrain",
+    "MPG": -1,
+    "Torque": 0.515,
+    "Horsepower": 0.35,
+    "Reliability": 0.25,
+    "Wheelbase": 0.577
+  },
+  {
+    "Model": "Yukon",
+    "MPG": 0.233,
+    "Torque": 1.415,
+    "Horsepower": 1.275,
+    "Reliability": 0.8,
+    "Wheelbase": 0.867
+  },
+  {
+    "Model": "Accord",
+    "MPG": 1,
+    "Torque": 0.145,
+    "Horsepower": 0.56,
+    "Reliability": 0.55,
+    "Wheelbase": 0.713
+  },
+  {
+    "Model": "Civic",
+    "MPG": 1.233,
+    "Torque": 0.19,
+    "Horsepower": 0.29,
+    "Reliability": 0.35,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Clarity",
+    "MPG": -1,
+    "Torque": -0.005,
+    "Horsepower": 0.56,
+    "Reliability": -0.05,
+    "Wheelbase": 0.61
+  },
+  {
+    "Model": "CR-V",
+    "MPG": 0.967,
+    "Torque": 0.4,
+    "Horsepower": 0.42,
+    "Reliability": 0.45,
+    "Wheelbase": 0.49
+  },
+  {
+    "Model": "CR-Z",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.1,
+    "Wheelbase": 0.197
+  },
+  {
+    "Model": "Fit",
+    "MPG": 1.3,
+    "Torque": 0.07,
+    "Horsepower": 0.15,
+    "Reliability": -0.05,
+    "Wheelbase": 0.32
+  },
+  {
+    "Model": "HR-V",
+    "MPG": 1,
+    "Torque": 0.135,
+    "Horsepower": 0.205,
+    "Reliability": -0.2,
+    "Wheelbase": 0.427
+  },
+  {
+    "Model": "Insight",
+    "MPG": 2.333,
+    "Torque": -0.005,
+    "Horsepower": 0.255,
+    "Reliability": 0.1,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Pilot",
+    "MPG": 0.5,
+    "Torque": 0.81,
+    "Horsepower": 0.9,
+    "Reliability": 0.35,
+    "Wheelbase": 0.7
+  },
+  {
+    "Model": "Accent",
+    "MPG": 1.2,
+    "Torque": 0.095,
+    "Horsepower": 0.15,
+    "Reliability": 0,
+    "Wheelbase": 0.387
+  },
+  {
+    "Model": "Azera",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -3.5,
+    "Wheelbase": 0.733
+  },
+  {
+    "Model": "Elantra",
+    "MPG": 1.067,
+    "Torque": 0.16,
+    "Horsepower": 0.235,
+    "Reliability": 0.35,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Ioniq",
+    "MPG": 2.8,
+    "Torque": 0.045,
+    "Horsepower": 0.195,
+    "Reliability": 0,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Kona",
+    "MPG": 0.933,
+    "Torque": 0.16,
+    "Horsepower": 0.235,
+    "Reliability": -3.5,
+    "Wheelbase": 0.413
+  },
+  {
+    "Model": "Nexo",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -3.5,
+    "Wheelbase": 0.66
+  },
+  {
+    "Model": "Santa",
+    "MPG": 0.533,
+    "Torque": 0.39,
+    "Horsepower": 0.425,
+    "Reliability": 0.45,
+    "Wheelbase": 0.607
+  },
+  {
+    "Model": "Sonata",
+    "MPG": 1,
+    "Torque": 0.39,
+    "Horsepower": 0.425,
+    "Reliability": 0.35,
+    "Wheelbase": 0.68
+  },
+  {
+    "Model": "Tuscon",
+    "MPG": 0.7,
+    "Torque": 0.25,
+    "Horsepower": 0.305,
+    "Reliability": 0.45,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Veloster",
+    "MPG": 0.667,
+    "Torque": 0.16,
+    "Horsepower": 0.235,
+    "Reliability": 0.3,
+    "Wheelbase": 0.477
+  },
+  {
+    "Model": "Q50",
+    "MPG": 0.633,
+    "Torque": 0.79,
+    "Horsepower": 0.54,
+    "Reliability": 0.85,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "Q60",
+    "MPG": 0.567,
+    "Torque": 0.975,
+    "Horsepower": 1,
+    "Reliability": 0.9,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "Q70",
+    "MPG": 0.367,
+    "Torque": 0.85,
+    "Horsepower": 1.15,
+    "Reliability": 1,
+    "Wheelbase": 0.807
+  },
+  {
+    "Model": "QX30",
+    "MPG": 0.8,
+    "Torque": 0.79,
+    "Horsepower": 0.54,
+    "Reliability": 0.15,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "QX50",
+    "MPG": 0.833,
+    "Torque": 0.9,
+    "Horsepower": 0.84,
+    "Reliability": 0.75,
+    "Wheelbase": 0.673
+  },
+  {
+    "Model": "QX60",
+    "MPG": 0.533,
+    "Torque": 0.85,
+    "Horsepower": 0.975,
+    "Reliability": 0.8,
+    "Wheelbase": 0.807
+  },
+  {
+    "Model": "QX70",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.9,
+    "Wheelbase": 0.787
+  },
+  {
+    "Model": "QX80",
+    "MPG": 0.1,
+    "Torque": 1.565,
+    "Horsepower": 1.5,
+    "Reliability": 0.95,
+    "Wheelbase": 1.037
+  },
+  {
+    "Model": "E-Pace",
+    "MPG": 0.633,
+    "Torque": 0.845,
+    "Horsepower": 0.73,
+    "Reliability": -3.5,
+    "Wheelbase": 0.52
+  },
+  {
+    "Model": "F-Pace",
+    "MPG": 0.633,
+    "Torque": 0.845,
+    "Horsepower": 0.735,
+    "Reliability": 0.25,
+    "Wheelbase": 0.77
+  },
+  {
+    "Model": "F-Type",
+    "MPG": 0.5,
+    "Torque": 0.975,
+    "Horsepower": 0.98,
+    "Reliability": 0.1,
+    "Wheelbase": -3
+  },
+  {
+    "Model": "I-Pace",
+    "MPG": -1,
+    "Torque": 2.06,
+    "Horsepower": 1.47,
+    "Reliability": -3.5,
+    "Wheelbase": -3
+  },
+  {
+    "Model": "XE",
+    "MPG": 0.933,
+    "Torque": 0.845,
+    "Horsepower": 0.735,
+    "Reliability": -3.5,
+    "Wheelbase": 0.72
+  },
+  {
+    "Model": "XF",
+    "MPG": 1,
+    "Torque": 0.845,
+    "Horsepower": 0.735,
+    "Reliability": 0.5,
+    "Wheelbase": 0.883
+  },
+  {
+    "Model": "XJ",
+    "MPG": 0.4,
+    "Torque": 1.16,
+    "Horsepower": 1.2,
+    "Reliability": 0.85,
+    "Wheelbase": 0.758
+  },
+  {
+    "Model": "Cherokee",
+    "MPG": 0.633,
+    "Torque": 0.355,
+    "Horsepower": 0.4,
+    "Reliability": 0.3,
+    "Wheelbase": 0.827
+  },
+  {
+    "Model": "Compass",
+    "MPG": 0.8,
+    "Torque": 0.375,
+    "Horsepower": 0.4,
+    "Reliability": 0.1,
+    "Wheelbase": 0.46
+  },
+  {
+    "Model": "Grand",
+    "MPG": 0.233,
+    "Torque": 0.8,
+    "Horsepower": 0.975,
+    "Reliability": 0.4,
+    "Wheelbase": 0.827
+  },
+  {
+    "Model": "Patriot",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -0.05,
+    "Wheelbase": 0.457
+  },
+  {
+    "Model": "Renegade",
+    "MPG": 0.7,
+    "Torque": 0.375,
+    "Horsepower": 0.4,
+    "Reliability": 0.1,
+    "Wheelbase": 0.373
+  },
+  {
+    "Model": "Wrangler",
+    "MPG": 0.4,
+    "Torque": 0.8,
+    "Horsepower": 0.925,
+    "Reliability": 0.1,
+    "Wheelbase": 0.683
+  },
+  {
+    "Model": "Cadenza",
+    "MPG": 0.567,
+    "Torque": 0.765,
+    "Horsepower": 0.95,
+    "Reliability": 0.9,
+    "Wheelbase": 0.747
+  },
+  {
+    "Model": "Forte",
+    "MPG": 1.267,
+    "Torque": -0.5,
+    "Horsepower": 0.235,
+    "Reliability": 0.25,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "K900",
+    "MPG": 0.433,
+    "Torque": 1.38,
+    "Horsepower": 1.325,
+    "Reliability": -3.5,
+    "Wheelbase": 0.997
+  },
+  {
+    "Model": "Niro",
+    "MPG": 2.167,
+    "Torque": 0.475,
+    "Horsepower": 0.195,
+    "Reliability": 0.15,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Optima",
+    "MPG": 0.933,
+    "Torque": 0.39,
+    "Horsepower": 0.425,
+    "Reliability": 0.5,
+    "Wheelbase": 0.68
+  },
+  {
+    "Model": "Rio",
+    "MPG": 1.167,
+    "Torque": 0.095,
+    "Horsepower": 0.15,
+    "Reliability": 0.45,
+    "Wheelbase": 0.387
+  },
+  {
+    "Model": "Sorento",
+    "MPG": 0.6,
+    "Torque": 0.39,
+    "Horsepower": 0.425,
+    "Reliability": 0.55,
+    "Wheelbase": 0.647
+  },
+  {
+    "Model": "Soul",
+    "MPG": 0.833,
+    "Torque": 0.16,
+    "Horsepower": 0.235,
+    "Reliability": 0.45,
+    "Wheelbase": 0.413
+  },
+  {
+    "Model": "Sportage",
+    "MPG": 0.667,
+    "Torque": 0.375,
+    "Horsepower": 0.405,
+    "Reliability": 0.45,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Stinger",
+    "MPG": 0.533,
+    "Torque": 0.8,
+    "Horsepower": 0.775,
+    "Reliability": 0.65,
+    "Wheelbase": 0.82
+  },
+  {
+    "Model": "Discovery / LR4",
+    "MPG": 0.4,
+    "Torque": 1.16,
+    "Horsepower": 1.2,
+    "Reliability": 0.35,
+    "Wheelbase": 0.833
+  },
+  {
+    "Model": "Discovery Sport",
+    "MPG": 0.5,
+    "Torque": 0.755,
+    "Horsepower": 0.685,
+    "Reliability": 0.15,
+    "Wheelbase": 0.597
+  },
+  {
+    "Model": "Range Rover",
+    "MPG": 0.367,
+    "Torque": 1.16,
+    "Horsepower": 1.2,
+    "Reliability": 0.5,
+    "Wheelbase": 1
+  },
+  {
+    "Model": "Evoque",
+    "MPG": 0.667,
+    "Torque": 0.845,
+    "Horsepower": 0.73,
+    "Reliability": 0.2,
+    "Wheelbase": 0.52
+  },
+  {
+    "Model": "Range Rover Sport",
+    "MPG": 0.433,
+    "Torque": 1.16,
+    "Horsepower": 1.2,
+    "Reliability": 0.4,
+    "Wheelbase": 0.833
+  },
+  {
+    "Model": "Velar",
+    "MPG": 0.6,
+    "Torque": 0.845,
+    "Horsepower": 0.735,
+    "Reliability": 0.05,
+    "Wheelbase": 0.767
+  },
+  {
+    "Model": "ES",
+    "MPG": 0.833,
+    "Torque": 0.835,
+    "Horsepower": 1.01,
+    "Reliability": 0.9,
+    "Wheelbase": 0.767
+  },
+  {
+    "Model": "GS",
+    "MPG": 0.6,
+    "Torque": 0.79,
+    "Horsepower": 0.705,
+    "Reliability": 1.05,
+    "Wheelbase": 0.733
+  },
+  {
+    "Model": "GX",
+    "MPG": 0.1,
+    "Torque": 1.145,
+    "Horsepower": 1.005,
+    "Reliability": 0.8,
+    "Wheelbase": 0.66
+  },
+  {
+    "Model": "IS",
+    "MPG": 0.633,
+    "Torque": 0.79,
+    "Horsepower": 0.705,
+    "Reliability": 0.9,
+    "Wheelbase": 0.673
+  },
+  {
+    "Model": "LC",
+    "MPG": 0.7,
+    "Torque": 1.49,
+    "Horsepower": 1.855,
+    "Reliability": -3.5,
+    "Wheelbase": 0.767
+  },
+  {
+    "Model": "LS",
+    "MPG": 0.7,
+    "Torque": 1.71,
+    "Horsepower": 1.58,
+    "Reliability": 1.1,
+    "Wheelbase": 0.897
+  },
+  {
+    "Model": "LX",
+    "MPG": 0.033,
+    "Torque": 1.515,
+    "Horsepower": 1.415,
+    "Reliability": 0.95,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "NX",
+    "MPG": 0.667,
+    "Torque": 0.79,
+    "Horsepower": 0.675,
+    "Reliability": 0.6,
+    "Wheelbase": 0.49
+  },
+  {
+    "Model": "RC",
+    "MPG": 0.533,
+    "Torque": 0.79,
+    "Horsepower": 0.705,
+    "Reliability": 0.75,
+    "Wheelbase": 0.583
+  },
+  {
+    "Model": "RX",
+    "MPG": 0.9,
+    "Torque": 0.835,
+    "Horsepower": 0.975,
+    "Reliability": 1.1,
+    "Wheelbase": 0.66
+  },
+  {
+    "Model": "UX",
+    "MPG": 1.2,
+    "Torque": 0.255,
+    "Horsepower": 0.345,
+    "Reliability": -3.5,
+    "Wheelbase": 0.463
+  },
+  {
+    "Model": "Continental",
+    "MPG": 0.433,
+    "Torque": 0.9,
+    "Horsepower": 1.025,
+    "Reliability": 1.1,
+    "Wheelbase": 0.93
+  },
+  {
+    "Model": "MKC",
+    "MPG": 0.5,
+    "Torque": 0.875,
+    "Horsepower": 0.725,
+    "Reliability": 0.65,
+    "Wheelbase": 0.53
+  },
+  {
+    "Model": "MKT",
+    "MPG": 0.2,
+    "Torque": 1.25,
+    "Horsepower": 1.325,
+    "Reliability": 0.7,
+    "Wheelbase": 1.023
+  },
+  {
+    "Model": "MKX",
+    "MPG": 0.867,
+    "Torque": 0.875,
+    "Horsepower": 0.725,
+    "Reliability": 0.85,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "MKZ",
+    "MPG": 0.533,
+    "Torque": 0.875,
+    "Horsepower": 0.725,
+    "Reliability": 0.65,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "Navigator",
+    "MPG": 0.3,
+    "Torque": 2,
+    "Horsepower": 1.75,
+    "Reliability": 1.05,
+    "Wheelbase": 1.083
+  },
+  {
+    "Model": "Mazda 3",
+    "MPG": 1.033,
+    "Torque": 0.43,
+    "Horsepower": 0.43,
+    "Reliability": 0.15,
+    "Wheelbase": 0.577
+  },
+  {
+    "Model": "Mazda 6",
+    "MPG": 0.767,
+    "Torque": 0.43,
+    "Horsepower": 0.435,
+    "Reliability": 0.45,
+    "Wheelbase": 0.713
+  },
+  {
+    "Model": "CX-3",
+    "MPG": 0.6,
+    "Torque": 0.23,
+    "Horsepower": 0.24,
+    "Reliability": -0.1,
+    "Wheelbase": 0.373
+  },
+  {
+    "Model": "CX-5",
+    "MPG": 1,
+    "Torque": 0.43,
+    "Horsepower": 0.435,
+    "Reliability": 0.3,
+    "Wheelbase": 0.54
+  },
+  {
+    "Model": "CX-9",
+    "MPG": 0.933,
+    "Torque": 1.05,
+    "Horsepower": 0.635,
+    "Reliability": 0.35,
+    "Wheelbase": 0.843
+  },
+  {
+    "Model": "MX-5 Miata",
+    "MPG": 1.033,
+    "Torque": 0.255,
+    "Horsepower": 0.405,
+    "Reliability": 0.45,
+    "Wheelbase": -0.028
+  },
+  {
+    "Model": "AMG",
+    "MPG": 0.233,
+    "Torque": 1.42,
+    "Horsepower": 1.645,
+    "Reliability": -3.5,
+    "Wheelbase": 0.45
+  },
+  {
+    "Model": "B-Class",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -3.5,
+    "Wheelbase": 0.647
+  },
+  {
+    "Model": "C-Class",
+    "MPG": 0.7,
+    "Torque": 0.865,
+    "Horsepower": 0.775,
+    "Reliability": 0.9,
+    "Wheelbase": 0.727
+  },
+  {
+    "Model": "CLA-Class",
+    "MPG": 1,
+    "Torque": 0.79,
+    "Horsepower": 0.54,
+    "Reliability": 0.7,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "E-Class",
+    "MPG": 0.733,
+    "Torque": 1.345,
+    "Horsepower": 1.345,
+    "Reliability": 0.8,
+    "Wheelbase": 0.857
+  },
+  {
+    "Model": "G-Class",
+    "MPG": 0.5,
+    "Torque": 1.75,
+    "Horsepower": 1.58,
+    "Reliability": 0.75,
+    "Wheelbase": 0.793
+  },
+  {
+    "Model": "GLA-Class",
+    "MPG": 0,
+    "Torque": 0.79,
+    "Horsepower": 0.54,
+    "Reliability": 0.6,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "GLC-Class",
+    "MPG": 0.433,
+    "Torque": 0.865,
+    "Horsepower": 0.705,
+    "Reliability": 0.9,
+    "Wheelbase": 0.77
+  },
+  {
+    "Model": "GLE-Class",
+    "MPG": 0.167,
+    "Torque": 0.865,
+    "Horsepower": 0.775,
+    "Reliability": 0.8,
+    "Wheelbase": 0.827
+  },
+  {
+    "Model": "GLS-Class",
+    "MPG": 0.167,
+    "Torque": 1.345,
+    "Horsepower": 1.31,
+    "Reliability": 0.9,
+    "Wheelbase": 1.037
+  },
+  {
+    "Model": "S-Class",
+    "MPG": 0.367,
+    "Torque": 1.345,
+    "Horsepower": 1.31,
+    "Reliability": 1.15,
+    "Wheelbase": 1.117
+  },
+  {
+    "Model": "SLC-Class",
+    "MPG": 0.433,
+    "Torque": 0.865,
+    "Horsepower": 0.705,
+    "Reliability": 0.9,
+    "Wheelbase": 0.19
+  },
+  {
+    "Model": "SL-Class",
+    "MPG": 0.733,
+    "Torque": 1.345,
+    "Horsepower": 1.31,
+    "Reliability": 0.8,
+    "Wheelbase": 0.39
+  },
+  {
+    "Model": "Cooper",
+    "MPG": 1,
+    "Torque": 0.31,
+    "Horsepower": 0.17,
+    "Reliability": 0.3,
+    "Wheelbase": 0.333
+  },
+  {
+    "Model": "Countryman",
+    "MPG": 0.8,
+    "Torque": 0.31,
+    "Horsepower": 0.17,
+    "Reliability": 0.65,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Eclipse",
+    "MPG": 0.8,
+    "Torque": 0.42,
+    "Horsepower": 0.26,
+    "Reliability": 0,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Mirage",
+    "MPG": 1.533,
+    "Torque": -0.13,
+    "Horsepower": -0.11,
+    "Reliability": -0.2,
+    "Wheelbase": 0.217
+  },
+  {
+    "Model": "Outlander",
+    "MPG": 0.667,
+    "Torque": 0.31,
+    "Horsepower": 0.33,
+    "Reliability": 0.2,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Outlander",
+    "MPG": -1,
+    "Torque": 0.31,
+    "Horsepower": 0.33,
+    "Reliability": -3.5,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Outlander",
+    "MPG": 0.767,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.4,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "370Z",
+    "MPG": 0.433,
+    "Torque": 0.225,
+    "Horsepower": 0.24,
+    "Reliability": 0.2,
+    "Wheelbase": 0.347
+  },
+  {
+    "Model": "Altima",
+    "MPG": 1.133,
+    "Torque": 0.39,
+    "Horsepower": 0.41,
+    "Reliability": 0.7,
+    "Wheelbase": 0.707
+  },
+  {
+    "Model": "Armada",
+    "MPG": 0.067,
+    "Torque": 1.47,
+    "Horsepower": 1.45,
+    "Reliability": 0.5,
+    "Wheelbase": 1.037
+  },
+  {
+    "Model": "GT-R",
+    "MPG": 0.267,
+    "Torque": 1.835,
+    "Horsepower": 2.325,
+    "Reliability": -3.5,
+    "Wheelbase": 0.647
+  },
+  {
+    "Model": "Juke",
+    "MPG": 1.233,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.1,
+    "Wheelbase": 0.32
+  },
+  {
+    "Model": "Kicks",
+    "MPG": 1.233,
+    "Torque": 0.075,
+    "Horsepower": 0.125,
+    "Reliability": -3.5,
+    "Wheelbase": 0.437
+  },
+  {
+    "Model": "Leaf",
+    "MPG": 0.667,
+    "Torque": 0.68,
+    "Horsepower": 0.235,
+    "Reliability": 0.2,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Maxima",
+    "MPG": 0.6,
+    "Torque": 0.805,
+    "Horsepower": 1,
+    "Reliability": 0.85,
+    "Wheelbase": 0.643
+  },
+  {
+    "Model": "Murano",
+    "MPG": 0.533,
+    "Torque": 0.7,
+    "Horsepower": 0.8,
+    "Reliability": 0.6,
+    "Wheelbase": 0.707
+  },
+  {
+    "Model": "Pathfinder",
+    "MPG": 0.933,
+    "Torque": 0.795,
+    "Horsepower": 0.92,
+    "Reliability": 0.5,
+    "Wheelbase": 0.807
+  },
+  {
+    "Model": "Rogue",
+    "MPG": 1.2,
+    "Torque": 0.375,
+    "Horsepower": 0.35,
+    "Reliability": 0.4,
+    "Wheelbase": 0.55
+  },
+  {
+    "Model": "Sentra",
+    "MPG": 0.867,
+    "Torque": 0.14,
+    "Horsepower": 0.15,
+    "Reliability": 0.3,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Versa",
+    "MPG": 1.2,
+    "Torque": 0.035,
+    "Horsepower": 0.045,
+    "Reliability": 0.1,
+    "Wheelbase": 0.413
+  },
+  {
+    "Model": 718,
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 1.1,
+    "Wheelbase": 0.248
+  },
+  {
+    "Model": 911,
+    "MPG": 0.433,
+    "Torque": 1.155,
+    "Horsepower": 1.35,
+    "Reliability": 1.3,
+    "Wheelbase": 0.217
+  },
+  {
+    "Model": "Cayenne",
+    "MPG": 0.367,
+    "Torque": 2.08,
+    "Horsepower": 1.775,
+    "Reliability": 1.1,
+    "Wheelbase": 0.797
+  },
+  {
+    "Model": "Macan",
+    "MPG": 0.4,
+    "Torque": 0.865,
+    "Horsepower": 0.74,
+    "Reliability": 1.15,
+    "Wheelbase": 0.683
+  },
+  {
+    "Model": "Panamera",
+    "MPG": 0.633,
+    "Torque": 1.155,
+    "Horsepower": 1.15,
+    "Reliability": 0.75,
+    "Wheelbase": 1
+  },
+  {
+    "Model": "ForTwo",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": -0.25,
+    "Wheelbase": -0.542
+  },
+  {
+    "Model": "Ascent",
+    "MPG": 0.567,
+    "Torque": 0.885,
+    "Horsepower": 0.8,
+    "Reliability": -3.5,
+    "Wheelbase": 0.793
+  },
+  {
+    "Model": "BRZ",
+    "MPG": 0.8,
+    "Torque": 0.28,
+    "Horsepower": 0.525,
+    "Reliability": 0.15,
+    "Wheelbase": 0.373
+  },
+  {
+    "Model": "CrossTrek",
+    "MPG": 0.867,
+    "Torque": 0.225,
+    "Horsepower": 0.26,
+    "Reliability": 0.2,
+    "Wheelbase": 0.497
+  },
+  {
+    "Model": "Forester",
+    "MPG": 0.967,
+    "Torque": 0.38,
+    "Horsepower": 0.41,
+    "Reliability": 0.2,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Impreza",
+    "MPG": 1,
+    "Torque": 0.225,
+    "Horsepower": 0.26,
+    "Reliability": 0.15,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Impreza WRX",
+    "MPG": 0.8,
+    "Torque": 0.79,
+    "Horsepower": 0.84,
+    "Reliability": 0.25,
+    "Wheelbase": 0.503
+  },
+  {
+    "Model": "Legacy",
+    "MPG": 0.733,
+    "Torque": 0.37,
+    "Horsepower": 0.375,
+    "Reliability": 0.4,
+    "Wheelbase": 0.61
+  },
+  {
+    "Model": "Outback",
+    "MPG": 0.467,
+    "Torque": 0.37,
+    "Horsepower": 0.375,
+    "Reliability": 0.4,
+    "Wheelbase": 0.603
+  },
+  {
+    "Model": "Model 3",
+    "MPG": -1,
+    "Torque": 1.085,
+    "Horsepower": 0.79,
+    "Reliability": -3.5,
+    "Wheelbase": 0.773
+  },
+  {
+    "Model": "Model S",
+    "MPG": -1,
+    "Torque": 1.435,
+    "Horsepower": 2.09,
+    "Reliability": -3.5,
+    "Wheelbase": 0.9
+  },
+  {
+    "Model": "Model X",
+    "MPG": -1,
+    "Torque": 1.435,
+    "Horsepower": 2.09,
+    "Reliability": -3.5,
+    "Wheelbase": 0.89
+  },
+  {
+    "Model": "4Runner",
+    "MPG": 0.267,
+    "Torque": 0.89,
+    "Horsepower": 0.85,
+    "Reliability": 0.65,
+    "Wheelbase": 0.66
+  },
+  {
+    "Model": 86,
+    "MPG": 0.767,
+    "Torque": 0.28,
+    "Horsepower": 0.525,
+    "Reliability": 0.05,
+    "Wheelbase": 0.373
+  },
+  {
+    "Model": "Avalon",
+    "MPG": 1.9,
+    "Torque": 0.835,
+    "Horsepower": 1.005,
+    "Reliability": 0.45,
+    "Wheelbase": 0.767
+  },
+  {
+    "Model": "Camry",
+    "MPG": 0.933,
+    "Torque": 0.435,
+    "Horsepower": 0.515,
+    "Reliability": 0.4,
+    "Wheelbase": 0.707
+  },
+  {
+    "Model": "C-HR",
+    "MPG": 1.1,
+    "Torque": 0.195,
+    "Horsepower": 0.22,
+    "Reliability": 0.25,
+    "Wheelbase": 0.463
+  },
+  {
+    "Model": "Corolla",
+    "MPG": 1.3,
+    "Torque": 0.13,
+    "Horsepower": 0.195,
+    "Reliability": 0.65,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "Highlander",
+    "MPG": 0.567,
+    "Torque": 0.42,
+    "Horsepower": 0.425,
+    "Reliability": 0.5,
+    "Wheelbase": 0.66
+  },
+  {
+    "Model": "Land Cruiser",
+    "MPG": 0.033,
+    "Torque": 1.505,
+    "Horsepower": 1.405,
+    "Reliability": -3.5,
+    "Wheelbase": 0.74
+  },
+  {
+    "Model": "Mirai",
+    "MPG": 2.567,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.25,
+    "Wheelbase": 0.647
+  },
+  {
+    "Model": "Prius",
+    "MPG": 1,
+    "Torque": 0.025,
+    "Horsepower": 0.105,
+    "Reliability": 0.2,
+    "Wheelbase": 0.543
+  },
+  {
+    "Model": "RAV4",
+    "MPG": 0,
+    "Torque": 0.42,
+    "Horsepower": 0.515,
+    "Reliability": 0.45,
+    "Wheelbase": 0.49
+  },
+  {
+    "Model": "Sequoia",
+    "MPG": 0.5,
+    "Torque": 0.815,
+    "Horsepower": 0.98,
+    "Reliability": 0.6,
+    "Wheelbase": 1.067
+  },
+  {
+    "Model": "Venza",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.6,
+    "Wheelbase": 0.643
+  },
+  {
+    "Model": "Yaris",
+    "MPG": 1.333,
+    "Torque": 0.015,
+    "Horsepower": 0.03,
+    "Reliability": 0.2,
+    "Wheelbase": 0.293
+  },
+  {
+    "Model": "Atlas",
+    "MPG": 0.433,
+    "Torque": 0.79,
+    "Horsepower": 0.675,
+    "Reliability": 0.5,
+    "Wheelbase": 0.91
+  },
+  {
+    "Model": "Beetle",
+    "MPG": 0.967,
+    "Torque": 0.42,
+    "Horsepower": 0.37,
+    "Reliability": 0.25,
+    "Wheelbase": 0.15
+  },
+  {
+    "Model": "CC",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.75,
+    "Wheelbase": 0.557
+  },
+  {
+    "Model": "Golf",
+    "MPG": 0.933,
+    "Torque": 0.42,
+    "Horsepower": 0.235,
+    "Reliability": 0.35,
+    "Wheelbase": 0.46
+  },
+  {
+    "Model": "Jetta",
+    "MPG": 1.333,
+    "Torque": 0.42,
+    "Horsepower": 0.235,
+    "Reliability": 0.45,
+    "Wheelbase": 0.523
+  },
+  {
+    "Model": "Passat",
+    "MPG": 1.033,
+    "Torque": 0.42,
+    "Horsepower": 0.37,
+    "Reliability": 0.3,
+    "Wheelbase": 0.68
+  },
+  {
+    "Model": "Tiguan",
+    "MPG": 0.667,
+    "Torque": 0.605,
+    "Horsepower": 0.42,
+    "Reliability": 0.35,
+    "Wheelbase": 0.66
+  },
+  {
+    "Model": "Touareg",
+    "MPG": -1,
+    "Torque": -0.5,
+    "Horsepower": -0.5,
+    "Reliability": 0.65,
+    "Wheelbase": 0.797
+  },
+  {
+    "Model": "S60",
+    "MPG": 0.9,
+    "Torque": 0.79,
+    "Horsepower": 0.8,
+    "Reliability": 0.25,
+    "Wheelbase": 0.77
+  },
+  {
+    "Model": "S90",
+    "MPG": 0.867,
+    "Torque": 0.79,
+    "Horsepower": 0.75,
+    "Reliability": 0.45,
+    "Wheelbase": 1.017
+  },
+  {
+    "Model": "XC40",
+    "MPG": 0.867,
+    "Torque": 0.605,
+    "Horsepower": 0.435,
+    "Reliability": -3.5,
+    "Wheelbase": 0.547
+  },
+  {
+    "Model": "XC60",
+    "MPG": 0.6,
+    "Torque": 0.79,
+    "Horsepower": 0.75,
+    "Reliability": 0.55,
+    "Wheelbase": 0.64
+  },
+  {
+    "Model": "XC90",
+    "MPG": 0.6,
+    "Torque": 0.79,
+    "Horsepower": 0.75,
+    "Reliability": 0.4,
+    "Wheelbase": 0.917
+  }
+]
