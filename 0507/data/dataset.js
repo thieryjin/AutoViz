@@ -69,7 +69,7 @@ window.dataset = {
           desc: 'Audi R8'
         }]
       }, {
-        desc: 'Going off-roding',
+        desc: 'Going off-roading',
         children: [{
           desc: 'Merchedes-Benz G-Class'
         }, {
@@ -106,7 +106,7 @@ window.dataset = {
       }, {
         desc: 'Be stylish',
         children: [{
-          desc: 'Honda Cicic'
+          desc: 'Honda Civic'
         }, {
           desc: 'Toyota Corolla'
         }, {
@@ -148,7 +148,7 @@ window.dataset = {
           desc: 'Tesla Model 3'
         }]
       }, {
-        desc: 'Going off-roding',
+        desc: 'Going off-roading',
         children: [{
           desc: 'Toyota Highlander'
         }, {
