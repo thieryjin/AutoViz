@@ -364,7 +364,7 @@ var margin = { top: 50, right: 80, bottom: 50, left: 80 },
             {axis:"Torque",value:0},
             {axis:"Horsepower",value:0},
             {axis:"Reliability",value:0},
-            {axis:"Whellbase",value:0}
+            {axis:"Wheelbase",value:0}
 						//{axis: 'Administration', value: 23}
 					]
 				}
