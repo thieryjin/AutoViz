@@ -291,7 +291,7 @@ function processData(error, data1, data2,data3) {
 		    {axis:"Torque",value:dataset1[0].torque},
 		    {axis:"Horsepower",value:dataset1[0].horsepower},
 		    {axis:"Reliability",value:dataset1[0].reliability},
-		    {axis:"Whellbase",value:dataset1[0].wheelbase}
+		    {axis:"Wheelbase",value:dataset1[0].wheelbase}
 		   ]}
       ]
       console.log(final_data);
@@ -354,7 +354,7 @@ var margin = { top: 50, right: 80, bottom: 50, left: 80 },
           {axis:"Torque",value:0},
           {axis:"Horsepower",value:0},
           {axis:"Reliability",value:0},
-          {axis:"Whellbase",value:0}
+          {axis:"Wheelbase",value:0}
 						//{axis: 'Administration', value: 20}
 		   ]
 		 },
