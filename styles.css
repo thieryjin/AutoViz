@@ -178,6 +178,7 @@ h2 {
   #radar{
     clear:both;
     margin: 2%;
+    background-image: url("backgroud1.jpg");
   }
   #radar svg{
     padding:2%;
