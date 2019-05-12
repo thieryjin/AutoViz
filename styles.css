@@ -64,7 +64,6 @@ h2 {
   #my_dataviz {
     clear:both;
     border: 0px solid #000000;
-    background:#B3B3B3;
     margin:2%;
     background-image: url("./WX20190510-045136@2x.png");
 
@@ -81,7 +80,7 @@ h2 {
     clear:both;
     border: 0px solid #000000;
     margin:2%;
-    background-image: url("./WX20190510-040803@2x.png");
+    
 
     
     
@@ -175,7 +174,10 @@ h2 {
     text-align: center;
     
   }
-
+  #radar{
+    clear:both;
+    margin: 2%;
+  }
   #radar svg{
     padding:2%;
     position: relative;
@@ -197,6 +199,4 @@ h2 {
     fill: #333333;
   }
 
-  #app {
-    background-image: url("./WX20190510-144041@2x.png");
-  }
+ 
