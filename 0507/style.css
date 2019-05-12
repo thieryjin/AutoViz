@@ -15,8 +15,9 @@ body {
 }
 
 #app {
+    margin:2%;
     overflow: hidden;
-    background-image: url(../WX20190510-035343@2x.png);
+    
 }
 
 div.question {
