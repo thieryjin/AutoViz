@@ -171,6 +171,7 @@ const RadarChart = function RadarChart(parent_selector, data, options) {
 	//Append the labels at each axis
 	axis.append("text")
 		.attr("class", "legend")
+		.style("fill", "white")
 		.style("font-size", "15px")
 		.attr("text-anchor", "middle")
 		.attr("dy", "0.35em")
